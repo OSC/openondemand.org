@@ -5,6 +5,10 @@ date:   2017-02-24 16:40:18 -0500
 categories: open-ondemand update event
 ---
 
+## Training Information
+
+[&laquo; Back](../)
+
 We are happy to announce our first Open OnDemand webinar!  Please join us on
 Wednesday, March 8, 2017 from 2:00 PM – 3:30 PM Eastern to learn more about
 Open OnDemand, including:
