@@ -14,3 +14,9 @@ header li {
 header ul li + li + li {
   width: 107px;
 }
+
+@media print, screen and (max-width: 480px) {
+  header li, header ul li + li + li {
+    width: 33%;
+  }
+}
