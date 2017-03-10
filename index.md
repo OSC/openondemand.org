@@ -4,11 +4,21 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
- - [Learn more about Open OnDemand](about)
- - [Learn about upcoming Open OnDemand events](webinar)
 
-Some helpful discussion guides describing the various aspects of Open OnDemand
-at OSC:
+Open OnDemand is an NSF-funded open-source HPC portal based on OSC's original
+OnDemand portal.  The goal of Open OnDemand is to provide an easy way for
+system administrators to provide web access to their HPC resources, including,
+but not limited to:
 
- - [OSC App Deployment Strategy](app-deployment)
- - [OSC CILogon Authentication Strategy](cilogon)
+- Plugin-free web experience
+- Easy file management
+- Command-line shell access
+- Job management and monitoring across different batch servers and resource managers
+- Graphical desktop environments and desktop applications
+
+[Training Information](webinar)
+
+Further reading after reading the documentation:
+
+- [OSC App Deployment Strategy](app-deployment)
+- [OSC CILogon Authentication Strategy](cilogon)
