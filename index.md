@@ -6,12 +6,9 @@ layout: default
 ---
  - [Learn more about Open OnDemand](about)
  - [Learn about upcoming Open OnDemand events](webinar)
- - [Installation](installation)
- - [System Apps](system-apps)
 
 Some helpful discussion guides describing the various aspects of Open OnDemand
 at OSC:
 
- - [Components of Open OnDemand](components)
  - [OSC App Deployment Strategy](app-deployment)
  - [OSC CILogon Authentication Strategy](cilogon)
