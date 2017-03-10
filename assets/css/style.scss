@@ -6,3 +6,11 @@
 footer {
   width: auto;
 }
+
+header li {
+  width: 80px;
+}
+
+header ul li + li + li {
+  width: 110px;
+}
