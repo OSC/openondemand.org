@@ -27,4 +27,4 @@ The webinar will be hosted via WebEx.  [Click here to
 join](https://oh-tech.webex.com/oh-tech/onstage/g.php?MTID=e2db1db04fedd40531261820392b893a3)
 
 [Download
-Slides](https://osc.github.io/Open-OnDemand/documents/documents/Introducing%20Open%20OnDemand.pptx)
+Slides](https://osc.github.io/Open-OnDemand/documents/Introducing%20Open%20OnDemand.pptx)
