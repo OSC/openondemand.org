@@ -18,7 +18,7 @@ but not limited to:
 
 [Training Information](webinar)
 
-Further reading after reading the documentation:
+Further reading after reading the [documentation](https://osc.github.io/ood-documentation):
 
 - [OSC App Deployment Strategy](app-deployment)
 - [OSC CILogon Authentication Strategy](cilogon)
