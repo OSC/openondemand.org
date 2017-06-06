@@ -18,10 +18,10 @@ but not limited to:
 
 ## Webinars
 
-| Date       | Title                                                      | Slides   | Media |
-|:----------:|:----------------------------------------------------------:|---------:|:-----:|
-| 2017-03-08 | Introducing Open OnDemand                                  | Download | Video |
-| 2017-06-07 | Open OnDemand:Supporting your HPC needs now more than ever | Download | Video |
+| Date       | Title                                                       | Slides   | Media |
+|:----------:|:--------------- -------------------------------------------:|---------:|:-----:|
+| 2017-03-08 | Introducing Open OnDemand                                   | [Download](documents/Introducing Open OnDemand.pptx) | [Video](media/Introducing Open OnDemand-20170308 1900-1.mp4) |
+| 2017-06-07 | Open OnDemand: Supporting your HPC needs now more than ever | Download | Video |
 
 Further reading after reading the [documentation](https://osc.github.io/ood-documentation):
 
