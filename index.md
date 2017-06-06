@@ -16,7 +16,7 @@ but not limited to:
 - Job management and monitoring across different batch servers and resource managers
 - Graphical desktop environments and desktop applications
 
-## Webinars
+### Webinars
 
 | Date | Title | Slides | Media |
 |:----:|:-----:|:------:|:-----:|
