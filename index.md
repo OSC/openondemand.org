@@ -16,7 +16,12 @@ but not limited to:
 - Job management and monitoring across different batch servers and resource managers
 - Graphical desktop environments and desktop applications
 
-[Training Information](webinar)
+## Webinars
+
+| Date       | Title                                                      | Slides   | Media |
+|:----------:|:----------------------------------------------------------:|---------:|:-----:|
+| 2017-03-08 | Introducing Open OnDemand                                  | Download | Video |
+| 2017-06-07 | Open OnDemand:Supporting your HPC needs now more than ever | Download | Video |
 
 Further reading after reading the [documentation](https://osc.github.io/ood-documentation):
 
