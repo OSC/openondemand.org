@@ -21,7 +21,7 @@ but not limited to:
 | Date | Title | Slides | Media |
 |:----:|:-----:|:------:|:-----:|
 | 2017-03-08 | [Introducing Open OnDemand](webinars/2017-03-08) | [Download](documents/Introducing Open OnDemand.pptx) | [Video](media/Introducing Open OnDemand-20170308 1900-1.mp4) |
-| 2017-06-07 | [Open OnDemand: Supporting your HPC needs now more than ever](webinars/2017-06-07) | Download | Video |
+| 2017-06-07 | [Open OnDemand: Supporting your HPC needs now more than ever](webinars/2017-06-07) | [Download](documents/Open OnDemand – Supporting your HPC needs now more than ever.pptx) | Video |
 
 Further reading after reading the [documentation](https://osc.github.io/ood-documentation):
 
