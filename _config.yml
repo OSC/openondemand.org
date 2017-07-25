@@ -16,7 +16,8 @@
 title: Open OnDemand
 email: bgohar@osc.edu
 description: Open-source project based on the Ohio Supercomputer Center’s OnDemand platform
-baseurl: "" # the subpath of your site, e.g. /blog
+# GitHub Pages will auto generate this value
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://osc.github.io/Open-OnDemand" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: osc
 
