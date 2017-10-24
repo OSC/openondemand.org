@@ -16,6 +16,8 @@ but not limited to:
 - Job management and monitoring across different batch servers and resource managers
 - Graphical desktop environments and desktop applications
 
+See the [documentation](https://osc.github.io/ood-documentation/master/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
+
 ### Webinars
 
 | Date | Title | Slides | Media |
