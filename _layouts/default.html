@@ -14,7 +14,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <img src="{{ '/assets/images/ood_logo_stack_rgb.svg' | relative_url }}"
+         onerror="this.src='{{ '/assets/images/ood_logo_stack_rgb.png' | relative_url }}'; this.onerror=null;">
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
