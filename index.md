@@ -20,11 +20,12 @@ See the [documentation](https://osc.github.io/ood-documentation/master/) for ins
 
 ### Webinars
 
-| Date | Title | Slides | Media |
-|:----:|:-----:|:------:|:-----:|
-| 2017-03-08 | [Introducing Open OnDemand](webinars/2017-03-08) | [Download](documents/Introducing Open OnDemand.pptx) | [Video](media/Introducing Open OnDemand-20170308 1900-1.mp4) |
-| 2017-06-07 | [Open OnDemand: Supporting your HPC needs now more than ever](webinars/2017-06-07) | [Download](documents/Open OnDemand – Supporting your HPC needs now more than ever.pptx) | [Video](media/Open OnDemand – Supporting your HPC needs now more than ever-20170607 1631-1.mp4) |
-| 2017-09-06 | [Open OnDemand – Jupyter, iHPC, and Authentication](webinars/2017-09-06) | [Download](documents/Open OnDemand – Jupyter, iHPC, and Authentication.pptx) | [Video - Missing 1st 9.5 min](media/Open OnDemand – Jupyter, iHPC, and Authentication.mp4) [Audio – Complete](media/Open OnDemand – Jupyter, iHPC, and Authentication.m4a) |
+| Date       | Title                                                                              | Slides                                                                                  | Media                                                                                                                                                                      |
+| :----:     | :-----:                                                                            | :------:                                                                                | :-----:                                                                                                                                                                    |
+| 2017-03-08 | [Introducing Open OnDemand](webinars/2017-03-08)                                   | [Download](documents/Introducing Open OnDemand.pptx)                                    | [Video](media/Introducing Open OnDemand-20170308 1900-1.mp4)                                                                                                               |
+| 2017-06-07 | [Open OnDemand: Supporting your HPC needs now more than ever](webinars/2017-06-07) | [Download](documents/Open OnDemand – Supporting your HPC needs now more than ever.pptx) | [Video](media/Open OnDemand – Supporting your HPC needs now more than ever-20170607 1631-1.mp4)                                                                            |
+| 2017-09-06 | [Open OnDemand – Jupyter, iHPC, and Authentication](webinars/2017-09-06)           | [Download](documents/Open OnDemand – Jupyter, iHPC, and Authentication.pptx)            | [Video - Missing 1st 9.5 min](media/Open OnDemand – Jupyter, iHPC, and Authentication.mp4) [Audio – Complete](media/Open OnDemand – Jupyter, iHPC, and Authentication.m4a) |
+| 2018-01-29 | [Customizing and Extending Open OnDemand](webinars/2018-01-29)                     |                                                                                         |                                                                                                                                                                            |
 
 Further reading after reading the [documentation](https://osc.github.io/ood-documentation/master/):
 
