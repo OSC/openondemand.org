@@ -18,6 +18,17 @@ but not limited to:
 
 See the [documentation](https://osc.github.io/ood-documentation/master/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
 
+
+**Tell us what features you want to be added to OnDemand:**
+
+* Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
+* Send an email to us on the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users)
+
+[See a list and comment on community requested features](
+https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
+) we are already planning on working.
+
+
 ### Webinars
 
 | Date       | Title                                                                              | Slides                                                                                  | Media                                                                                                                                                                      |
