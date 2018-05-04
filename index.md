@@ -31,6 +31,7 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 ) we are already planning on working.
 
 # Where to Learn More!
+
 ### Webinars
 
 | Date       | Title                                                                              | Slides                                                                                  | Media                                                                                                                                                                      |
@@ -41,10 +42,13 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 | 2018-01-29 | [Customizing and Extending Open OnDemand](webinars/2018-01-29)                     | [Download](documents/Customizing and Extending Open OnDemand.pptx)                      | [Video](https://vimeo.com/album/4960657/video/253843957)                                                                                                    |
 
 ### Conferences / Publications
-| Date | Publisher/Event | Title | Content Access
-| :----: | :----: | :----: | :----:
-| 2018-04-30 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6173918/1)
+
+| Date | Publisher/Event | Title | Content Access |
+| :----: | :----: | :----: | :----: |
+| 2018-04-30 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6173918/1) |
+
 ### Strategy / Roadmaps
+
 Further reading after reading the [documentation](https://osc.github.io/ood-documentation/master/):
 
 - [OSC App Deployment Strategy](app-deployment)
