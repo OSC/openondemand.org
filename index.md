@@ -5,6 +5,8 @@
 layout: default
 ---
 
+# Overview
+
 Open OnDemand is an NSF-funded open-source HPC portal based on OSC's original
 OnDemand portal.  The goal of Open OnDemand is to provide an easy way for
 system administrators to provide web access to their HPC resources, including,
@@ -19,7 +21,7 @@ but not limited to:
 See the [documentation](https://osc.github.io/ood-documentation/master/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
 
 
-**Tell us what features you want to be added to OnDemand:**
+### Tell us what features you want to be added to OnDemand!
 
 * Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
 * Send an email to us on the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users)
@@ -28,7 +30,7 @@ See the [documentation](https://osc.github.io/ood-documentation/master/) for ins
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
 ) we are already planning on working.
 
-
+# Where to Learn More!
 ### Webinars
 
 | Date       | Title                                                                              | Slides                                                                                  | Media                                                                                                                                                                      |
@@ -38,6 +40,11 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 | 2017-09-06 | [Open OnDemand – Jupyter, iHPC, and Authentication](webinars/2017-09-06)           | [Download](documents/Open OnDemand – Jupyter, iHPC, and Authentication.pptx)            | [Video - Missing 1st 9.5 min](https://vimeo.com/album/4960657/video/253850063) [Audio – Complete](http://www.osc.edu/sites/osc.edu/files/media/2017_0906_OpenOnDemand_Jupyter.m4a) |
 | 2018-01-29 | [Customizing and Extending Open OnDemand](webinars/2018-01-29)                     | [Download](documents/Customizing and Extending Open OnDemand.pptx)                      | [Video](https://vimeo.com/album/4960657/video/253843957)                                                                                                    |
 
+### Conferences / Publications
+| Date | Publisher/Event | Title | Content Access
+| :----: | :----: | :----: | :----:
+| 2018-04-30 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6173918/1)
+### Strategy / Roadmaps
 Further reading after reading the [documentation](https://osc.github.io/ood-documentation/master/):
 
 - [OSC App Deployment Strategy](app-deployment)
