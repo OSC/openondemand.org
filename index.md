@@ -49,9 +49,11 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 | 2017-10-10 | CASC Meeting | Open OnDemand 1.1: Web and Interactive HPC Access | [Download](https://figshare.com/articles/Open_OnDemand_1_1_Web_and_Interactive_HPC_Access/6225734) |
 | 2017-10-09 | NSF Gateways17 | Demo: Developing Apps to Extend Open OnDemand | [Download](https://figshare.com/articles/Demo_Developing_Apps_to_Extend_Open_OnDemand/6225746) |
 | 2017-07-12 | PEARC17 | Open OnDemand: Current Status and Future Plans | [Download](https://figshare.com/articles/Open_OnDemand_Current_Status_and_Future_Plans/6225749) |
+| 2017-05-02 | SIGHPC Education | Open OnDemand: A Web Platform for HPC with applications in the classroom | [Download](https://figshare.com/articles/Open_OnDemand_A_Web_Platform_for_HPC_with_applications_in_the_classroom/6225770) |
 | 2017-01-19 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6225758) |
 | 2016-10-07 | NSF Gateways16 | Open OnDemand: A Unified Platform for Science Gateway Apps | [Download](https://figshare.com/articles/Open_OnDemand_A_Unified_Platform_for_Science_Gateway_Apps/6225755) |
-
+| 2016-10-07 | XSEDE16 | Open OnDemand: Transforming Computational Science Through Omnidisciplinary Software Cyberinfrastructure | [Download](https://figshare.com/articles/Open_OnDemand_Transforming_Computational_Science_Through_Omnidisciplinary_Software_Cyberinfrastructure/6225779) |
+| 2013-06-13 | XSEDE13 | OSC OnDemand: A Web Platform Integrating Access to HPC Systems, Web and VNC Applications | [Download](https://figshare.com/articles/OSC_OnDemand_A_Web_Platform_Integrating_Access_to_HPC_Systems_Web_and_VNC_Applications/6225776) |
 
 
 ### Strategy / Roadmaps
