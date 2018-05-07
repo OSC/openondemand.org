@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Open OnDemand
-email: bgohar@osc.edu
+email: ood-users@lists.osc.edu
 description: Open-source project based on the Ohio Supercomputer Center’s OnDemand platform
 baseurl: "/Open-OnDemand" # the subpath of your site, e.g. /blog
 url: "https://osc.github.io/Open-OnDemand" # the base hostname & protocol for your site, e.g. http://example.com
