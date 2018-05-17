@@ -45,6 +45,7 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2018-05-17 | HPCwire Article | Democratizing HPC: OSC Releases Version 1.3 of OnDemand, Seeks Grant for 2.0 | [Download](https://www.hpcwire.com/2018/05/16/democratizing-hpc-osc-releases-version-1-3-of-ondemand-seeks-grant-for-2-0/) |
 | 2018-04-30 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6173918/1) |
 | 2017-10-10 | CASC Meeting | Open OnDemand 1.1: Web and Interactive HPC Access | [Download](https://figshare.com/articles/Open_OnDemand_1_1_Web_and_Interactive_HPC_Access/6225734) |
 | 2017-10-09 | Gateways17 | Demo: Developing Apps to Extend Open OnDemand | [Download](https://figshare.com/articles/Demo_Developing_Apps_to_Extend_Open_OnDemand/6225746) |
