@@ -25,7 +25,7 @@ See the [documentation](https://osc.github.io/ood-documentation/master/) for ins
 Using [Vagrant](https://www.vagrantup.com/) you can have a demo OpenOnDemand instance running in minutes. Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
 
 
-### Tell us what features you want to be added to OnDemand!
+## Tell us what features you want to be added to OnDemand!
 
 * Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
 * Send an email to us on the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users)
