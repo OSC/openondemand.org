@@ -20,6 +20,10 @@ but not limited to:
 
 See the [documentation](https://osc.github.io/ood-documentation/master/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
 
+## Run your own live demo
+
+Using [Vagrant](https://www.vagrantup.com/) you can have a demo OpenOnDemand instance running in minutes. Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
+
 
 ### Tell us what features you want to be added to OnDemand!
 
