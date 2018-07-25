@@ -49,6 +49,8 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2018-07-24 | PEARC 18 BOF | Open OnDemand – Present and Future Plans | [Download](https://figshare.com/articles/Open_OnDemand_PEARC18_BOF_Slides/6856832) |
+| 2018-07-23 | PEARC 18 Exhibit | Open OnDemand Overview | [Download](https://figshare.com/articles/Open_On_Demand_Overview/6856847) |
 | 2018-05-17 | HPCwire Article | Democratizing HPC: OSC Releases Version 1.3 of OnDemand, Seeks Grant for 2.0 | [Download](https://www.hpcwire.com/2018/05/16/democratizing-hpc-osc-releases-version-1-3-of-ondemand-seeks-grant-for-2-0/) |
 | 2018-05-15 | Journal of Open Source Software (JOSS) | Open OnDemand: A web-based client portal for HPC centers | [Download](http://joss.theoj.org/papers/10.21105/joss.00622) |
 | 2018-04-30 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6173918/1) |
