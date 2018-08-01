@@ -20,6 +20,10 @@ but not limited to:
 
 See the [documentation](https://osc.github.io/ood-documentation/master/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
 
+## Organizations using or exploring OnDemand
+Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us if your organization is not on this list and should be included!
+<iframe src="https://widgets.figshare.com/articles/6890636/embed?show_title=0" width="500" height="375" frameborder="0"></iframe>
+
 ## Run your own live demo
 
 Using [Vagrant](https://www.vagrantup.com/) you can have a demo OpenOnDemand instance running in minutes. Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
@@ -73,5 +77,5 @@ Further reading after reading the [documentation](https://osc.github.io/ood-docu
 - [OSC App Deployment Strategy](app-deployment)
 - [OSC CILogon Authentication Strategy](cilogon)
 
-<iframe src="https://widgets.figshare.com/articles/6887546/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>test embed
+
 
