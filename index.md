@@ -72,3 +72,6 @@ Further reading after reading the [documentation](https://osc.github.io/ood-docu
 
 - [OSC App Deployment Strategy](app-deployment)
 - [OSC CILogon Authentication Strategy](cilogon)
+
+<iframe src="https://widgets.figshare.com/articles/6887546/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>test embed
+
