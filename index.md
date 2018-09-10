@@ -53,6 +53,7 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2018-09-10 | Gateways 18 Paper | Accessing Distributed Jupyter / Spark in OnDemand | [Download](https://figshare.com/articles/Accessing_Distributed_Jupyter_Spark_in_OnDemand/7069679) |
 | 2018-07-25 | PEARC 18 Paper | Supporting distributed, interactive Jupyter and RStudio in a scheduled HPC environment with Spark using Open OnDemand | [Download](https://figshare.com/articles/Supporting_distributed_interactive_Jupyter_and_RStudio_in_a_scheduled_HPC_environment_with_Spark_using_Open_OnDemand/6887693) |
 | 2018-07-24 | PEARC 18 BOF | Open OnDemand – Present and Future Plans | [Download](https://figshare.com/articles/Open_OnDemand_PEARC18_BOF_Slides/6856832) |
 | 2018-07-23 | PEARC 18 Exhibit | Open OnDemand Overview | [Download](https://figshare.com/articles/Open_On_Demand_Overview/6856847) |
