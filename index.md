@@ -32,6 +32,7 @@ Using [Vagrant](https://www.vagrantup.com/) you can have a demo OpenOnDemand ins
 ## Tell us what features you want to be added to OnDemand!
 
 * Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
+* Post a suggestion or review existing suggestions on our [Discourse instance](https://discourse.osc.edu/c/open-ondemand) 
 * Send an email to us on the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users)
 
 [See a list and comment on community requested features](
