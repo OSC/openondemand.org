@@ -74,12 +74,4 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 | 2013-06-13 | XSEDE13 | OSC OnDemand: A Web Platform Integrating Access to HPC Systems, Web and VNC Applications | [Download](https://figshare.com/articles/OSC_OnDemand_A_Web_Platform_Integrating_Access_to_HPC_Systems_Web_and_VNC_Applications/6225776) |
 
 
-### Strategy / Roadmaps
-
-Further reading after reading the [documentation](https://osc.github.io/ood-documentation/master/):
-
-- [OSC App Deployment Strategy](app-deployment)
-- [OSC CILogon Authentication Strategy](cilogon)
-
-
 
