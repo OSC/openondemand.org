@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Open OnDemand
 email: ood-users@lists.osc.edu
-description: Open-source project based on the Ohio Supercomputer Center’s OnDemand platform
+description: Supercomputing.  Seamlessly. Open, Interactive HPC Via the Web
 url: "https://openondemand.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: osc
 
