@@ -10,8 +10,8 @@ layout: default
 ## Version 1.4 (Target: Late November 2018)
 1.	Upgrade to Ruby 2.4, NodeJS 6, Passenger 5 (still supporting CentOS/RHEL6,7
 2.	Enhance security
-..*	Enable whitelisting directories users can navigate to in files app
-..*	By default disable app development mode
+..*.	Enable whitelisting directories users can navigate to in files app
+..*.	By default disable app development mode
 3.	Fixed copy paste issues in the shell app for browsers other than Chrome
 4.	Optional Quota warnings on dashboard when disk space or file count on file systems reach certain threshold
 5.	Experimental SGE/UGE support
@@ -31,7 +31,7 @@ layout: default
 4.	Better documentation for enabling Two Factor Authentication using Keycloak
 5.	Updated web site/documentaiton highlighting third party contributions to OnDemand ecosystem
 
-#Community Suggestions
+# Community Suggestions
 ## Existing Requests
 [See a list and comment on community requested features](
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
