@@ -22,6 +22,9 @@ See the [documentation](https://osc.github.io/ood-documentation/master/) for ins
 
 ## Organizations using or exploring OnDemand
 Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us via the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
+
+[We also have a page with testimonil comments from many of these organizations](Testimonials.md)
+
 <iframe src="https://widgets.figshare.com/articles/6890636/embed?show_title=0" width="500" height="375" frameborder="0"></iframe>
 
 ## Run your own live demo
