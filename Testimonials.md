@@ -9,10 +9,19 @@ layout: default
 Don't take just our word for how great Open OnDemand is!  Here are some comments from our engaged community!  
 
 "We are really excited about launching this service and the impact it will have on our users - its a very significant modernization of our interface."
-Eric Appelt, Vanderbilt
+Eric Appelt, Vanderbilt University
 
 "I'm currently testing implementing OOD here and all has gone quite smoothly so far (really, very nice work, I'm really enjoying working with it). "
-Dan Dietz, Purdue
+Dan Dietz, Purdue University
+
+"Over all, the application works great.  It is exactly what we want to see as a modernization of the  HPC user experience."
+John-Paul Robinson, The University of Alabama at Birmingham
+
+"I'm happy to say that we are now using it in production this semester, and our faculty and students love it!"
+Shawn Sivy, The College of New Jersey
+
+"We love the interface and all of the tools in OOD. It seems to provide almost every feature that a user would need to use their HPC environment. "
+Avi Gundimeda,
 
 ### Maintained by OSC
 
