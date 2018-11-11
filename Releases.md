@@ -10,8 +10,8 @@ layout: default
 ## Version 1.4 (Target: Late November 2018)
 1.	Upgrade to Ruby 2.4, NodeJS 6, Passenger 5 (still supporting CentOS/RHEL6,7
 2.	Enhance security
-..*.	Enable whitelisting directories users can navigate to in files app
-..*.	By default disable app development mode
+  a.	Enable whitelisting directories users can navigate to in files app
+  b.	By default disable app development mode
 3.	Fixed copy paste issues in the shell app for browsers other than Chrome
 4.	Optional Quota warnings on dashboard when disk space or file count on file systems reach certain threshold
 5.	Experimental SGE/UGE support
