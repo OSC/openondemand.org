@@ -28,6 +28,12 @@ Below is a list of organizations that have deployed or are looking at deploying 
 
 Using [Vagrant](https://www.vagrantup.com/) you can have a demo OpenOnDemand instance running in minutes. Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
 
+# Project and Feature Roadmap
+## Upcoming Releases
+[Click here for a list of upcoming planned releases]()
+
+## Open OnDemand 2.0 Project
+[Click here for details on the Open OnDemand 2.0 rpoject]()
 
 ## Tell us what features you want to be added to OnDemand!
 
