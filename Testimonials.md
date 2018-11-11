@@ -32,6 +32,9 @@ Kevin Hildebrand, University of Maryland
 "First of all, a BIG thanks to you for making OnDemand - both me and our users love it! We have a big biology community among our users and anything that makes it easier to overcome "the slurm hump" is a big help with users who are not computer- and linux- savvy. "
 Kristina Plazonic, Rutgers
 
+"It does look like it could be a really useful tool (great work by those involved!)"
+Chris Collins, University of Hull
+
 
 ### Maintained by OSC
 
