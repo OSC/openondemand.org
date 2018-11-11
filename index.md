@@ -33,7 +33,7 @@ Using [Vagrant](https://www.vagrantup.com/) you can have a demo OpenOnDemand ins
 [Click here for a list of upcoming planned releases](Releases.md)
 
 ## Open OnDemand 2.0 Project
-[Click here for details on the Open OnDemand 2.0 rpoject]()
+[Click here for details on the Open OnDemand 2.0 project](OOD2Overview.md)
 
 ## Tell us what features you want to be added to OnDemand!
 
