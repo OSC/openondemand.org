@@ -20,8 +20,18 @@ John-Paul Robinson, The University of Alabama at Birmingham
 "I'm happy to say that we are now using it in production this semester, and our faculty and students love it!"
 Shawn Sivy, The College of New Jersey
 
-"We love the interface and all of the tools in OOD. It seems to provide almost every feature that a user would need to use their HPC environment. "
+"We love the interface and all of the tools in OOD. It seems to provide almost every feature that a user would need to use their HPC environment."
 Avi Gundimeda, University of Massachusetts Amherst
+
+"I’m very optimistic that OnDemand will make our compute resources much more accessible to broader audience - thank you for sharing it."
+Jay DePasse, Pittsburgh Supercomputing Center
+
+"Thanks for putting together what looks like it's going to be an extremely useful tool for our users!"
+Kevin Hildebrand, University of Maryland 
+
+"First of all, a BIG thanks to you for making OnDemand - both me and our users love it! We have a big biology community among our users and anything that makes it easier to overcome "the slurm hump" is a big help with users who are not computer- and linux- savvy. "
+Kristina Plazonic, Rutgers
+
 
 ### Maintained by OSC
 
