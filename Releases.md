@@ -44,7 +44,7 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 
 
 #Previous Release Notes
-[Release Notes are availale on the Open OnDemand documentation pages](https://osc.github.io/ood-documentation/master/)
+[Release Notes are available on the Open OnDemand documentation pages](https://osc.github.io/ood-documentation/master/)
 
 ### Maintained by OSC
 
