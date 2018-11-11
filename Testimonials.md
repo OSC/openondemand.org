@@ -21,7 +21,7 @@ John-Paul Robinson, The University of Alabama at Birmingham
 Shawn Sivy, The College of New Jersey
 
 "We love the interface and all of the tools in OOD. It seems to provide almost every feature that a user would need to use their HPC environment. "
-Avi Gundimeda,
+Avi Gundimeda, University of Massachusetts Amherst
 
 ### Maintained by OSC
 
