@@ -29,7 +29,9 @@ Below is a list of organizations that have deployed or are looking at deploying 
 
 ## Run your own live demo
 
-Using [Vagrant](https://www.vagrantup.com/) you can have a demo OpenOnDemand instance running in minutes. Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
+There are 2 ways you can have a demo Open OnDemand instance running in minutes:
+1. Using [Vagrant](https://www.vagrantup.com/). Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
+2. Using the [Science Gateways](https://sciencegateways.org/) hosting service.  Instructions are listed in the [sgci-ood-image](https://github.com/OSC/sgci-ood-image/blob/master/how_to_setup_ood_on_sgci_with_the_image/index.md) README.
 
 # Project and Feature Roadmap
 ## Upcoming Releases
