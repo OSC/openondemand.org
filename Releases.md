@@ -7,7 +7,7 @@ layout: default
 
 # Upcoming Releases
 
-## Version 1.4 (Target: Late November 2018)
+## Version 1.4 (Target: December 2018)
 1.	Upgrade to Ruby 2.4, NodeJS 6, Passenger 5 (still supporting CentOS/RHEL6,7
 2.	Enhance security
 *   Enable whitelisting directories users can navigate to in files app
@@ -17,19 +17,17 @@ layout: default
 5.	Experimental SGE/UGE support
 6.	Ability to make web form’s of interactive apps more dynamic
 
-## Version 1.5 (Target: Late December 2018)
+## Version 1.5 (Target: January 2019)
 1.	Basic job arrays support
 2.	File transfer improvements
 3.	Performance improvements
 4.	Submit and manage Job Composer jobs from any directory
-5.	Customizable job options for Job Composer 
-
-## Version 1.6 (Target: January 2019)
-1.	Peer to peer app sharing
-2.	Better support for RStudio, Jupyter and other interactive apps
-3.	Better branding/customization
-4.	Better documentation for enabling Two Factor Authentication using Keycloak
-5.	Updated web site/documentaiton highlighting third party contributions to OnDemand ecosystem
+5.	Customizable job options for Job Composer
+6.  Peer to peer app sharing
+7.	Better support for RStudio, Jupyter and other interactive apps
+8.	Better branding/customization
+9.	Better documentation for enabling Two Factor Authentication using Keycloak
+10.	Updated web site/documentaiton highlighting third party contributions to OnDemand ecosystem
 
 # Community Suggestions
 ## Existing Requests
