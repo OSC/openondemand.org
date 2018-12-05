@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Overview
+## Overview
 
 Open OnDemand is an NSF-funded open-source HPC portal based on OSC's original
 OnDemand portal.  The goal of Open OnDemand is to provide an easy way for
@@ -33,14 +33,14 @@ There are 2 ways you can have a demo Open OnDemand instance running in minutes:
 1. Using [Vagrant](https://www.vagrantup.com/). Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
 2. Using the [Science Gateways](https://sciencegateways.org/) hosting service.  Instructions are listed in the [sgci-ood-image](https://github.com/OSC/sgci-ood-image/blob/master/how_to_setup_ood_on_sgci_with_the_image/index.md) README.
 
-# Project and Feature Roadmap
-## Upcoming Releases
+## Project and Feature Roadmap
+### Upcoming Releases
 [Click here for a list of upcoming planned releases](Releases.md)
 
-## Open OnDemand 2.0 Project
+### Open OnDemand 2.0 Project
 [Click here for details on the Open OnDemand 2.0 project](OOD2Overview.md)
 
-## Tell us what features you want to be added to OnDemand!
+### Tell us what features you want to be added to OnDemand!
 
 * Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
 * Post a suggestion or review existing suggestions on our [Discourse instance](https://discourse.osc.edu/c/open-ondemand) 
@@ -50,7 +50,7 @@ There are 2 ways you can have a demo Open OnDemand instance running in minutes:
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
 ) we are already planning on working.
 
-# Where to Learn More!
+## Where to Learn More!
 
 ### Webinars
 
