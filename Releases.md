@@ -7,27 +7,28 @@ layout: default
 
 # Upcoming Releases
 
-## Version 1.4 (Target: December 2018)
+## Version 1.4 (Target: Jan 8 2018)
 1.	Upgrade to Ruby 2.4, NodeJS 6, Passenger 5 (still supporting CentOS/RHEL6,7
 2.	Enhance security
-*   Enable whitelisting directories users can navigate to in files app
-*	By default disable app development mode
+    * Enable whitelisting directories users can navigate to in files app
+    *	By default disable app development mode
 3.	Fixed copy paste issues in the shell app for browsers other than Chrome
 4.	Optional Quota warnings on dashboard when disk space or file count on file systems reach certain threshold
 5.	Experimental SGE/UGE support
 6.	Ability to make web form’s of interactive apps more dynamic
+7.  For all key features see [1.4 release notes](https://osc.github.io/ood-documentation/release-1.4/release-notes/v1.4-release-notes.html)
 
-## Version 1.5 (Target: January 2019)
+## Version 1.5 (Target: January 31 2019)
 1.	Basic job arrays support
-2.	File transfer improvements
-3.	Performance improvements
-4.	Submit and manage Job Composer jobs from any directory
-5.	Customizable job options for Job Composer
-6.  Peer to peer app sharing
-7.	Better support for RStudio, Jupyter and other interactive apps
-8.	Better branding/customization
-9.	Better documentation for enabling Two Factor Authentication using Keycloak
-10.	Updated web site/documentaiton highlighting third party contributions to OnDemand ecosystem
+2.	Performance improvements
+3.	Submit and manage Job Composer jobs from any directory
+4.	Customizable job options for Job Composer
+5.  Documenting peer to peer app sharing
+6.	Better support for RStudio
+7.	Localization
+8.	Documentation for enabling Two Factor Authentication using Keycloak and Duo
+9.	Updated web site/documentaiton highlighting third party contributions to OnDemand ecosystem
+10. Bug fixes
 
 # Community Suggestions
 ## Existing Requests
