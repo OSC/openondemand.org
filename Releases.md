@@ -30,6 +30,11 @@ layout: default
 9.	Updated web site/documentaiton highlighting third party contributions to OnDemand ecosystem
 10. Bug fixes
 
+If time permits:
+
+1. Submit and manage Job Composer jobs from any directory
+2. Customizable job options for Job Composer
+
 # Community Suggestions
 ## Existing Requests
 [See a list and comment on community requested features](
