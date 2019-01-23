@@ -21,7 +21,7 @@ but not limited to:
 See the [documentation](https://osc.github.io/ood-documentation/master/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
 
 ## Organizations using or exploring OnDemand
-Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us via the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
+Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us via the [news list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
 
 [We also have a page with testimonial comments from many of these organizations](Testimonials.md)
 
@@ -44,7 +44,7 @@ There are 2 ways you can have a demo Open OnDemand instance running in minutes:
 
 * Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
 * Post a suggestion or review existing suggestions on our [Discourse instance](https://discourse.osc.edu/c/open-ondemand) 
-* Send an email to us on the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users)
+* Send an email to us on the [news list](https://lists.osu.edu/mailman/listinfo/ood-users)
 
 [See a list and comment on community requested features](
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
