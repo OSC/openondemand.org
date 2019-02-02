@@ -6,7 +6,9 @@ layout: default
 ---
 
 ```
-OSC has a job opening on the Open OnDemand team!  Full details are available here: https://www.oh-tech.org/employment#ohio-supercomputer-center 
+OSC has a job opening on the Open OnDemand team!  
+Full details are available here: 
+https://www.oh-tech.org/employment#ohio-supercomputer-center 
 ```
 ## Overview
 
