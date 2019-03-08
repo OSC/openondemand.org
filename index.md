@@ -69,6 +69,8 @@ The Open OnDemand team welcomes and encourages opportunities to collaborate on p
 | 2017-09-06 | Open OnDemand – Jupyter, iHPC, and Authentication           | [Download](https://figshare.com/articles/Open_OnDemand_1_0_Jupyter_App_Development_Authentication/6225791)            | [Video - Missing 1st 9.5 min](https://vimeo.com/album/4960657/video/253850063) [Audio – Complete](http://www.osc.edu/sites/osc.edu/files/media/2017_0906_OpenOnDemand_Jupyter.m4a) |
 | 2018-01-29 | Customizing and Extending Open OnDemand                     | [Download](https://figshare.com/articles/Customizing_and_Extending_OnDemand/6225803)                      | [Video](https://oh-tech.webex.com/webappng/sites/oh-tech/recording/playback/75F4A3393BD215DFE0536284FC0A46B5)                                                                                                    |
 | 2018-10-17 | Using Open OnDemand for Training and Education             | [Download](https://figshare.com/articles/Using_Open_OnDemand_for_Training_and_Education/7224779) |[Video](https://oh-tech.webex.com/webappng/sites/oh-tech/recording/playback/86e670accddc42d8821617d38982c46e)
+|
+| 2019-4-17 | Open OnDemand Project Recap and Roadmap             | Coming soon |Coming soon
 
 
 ### Conferences / Publications
