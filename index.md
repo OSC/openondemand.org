@@ -55,8 +55,10 @@ There are 2 ways you can have a demo Open OnDemand instance running in minutes:
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
 ) we are already planning on working.
 
-### Collaborating with Open OnDemand on proposals
+### Collaborating with Open OnDemand
 The Open OnDemand team welcomes and encourages opportunities to collaborate on proposals with members of our community in response a variety of solicitations. Examples of potential collaboration roles our team can have include developing and delivering related client education and training programs, and providing extended support services for software deployment and custom workflow development. Please contact us via the news list if you would like to discuss a potential collaboration.
+
+Please consider contributing to the code repository on Github.  Since January 2016 there have been over 8,000 commits to the code base, but we can always use additional development help!
 
 ## Where to Learn More!
 
