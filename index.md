@@ -6,8 +6,8 @@ layout: default
 ---
 
 <div class="alert alert-info">
-  <strong>OSC has a job opening on the Open OnDemand team!</strong>
-  <p>Full details are available here: <a href="https://www.oh-tech.org/employment#ohio-supercomputer-center">https://www.oh-tech.org/employment#ohio-supercomputer-center</a></p>
+  <strong>Open OnDemand community survey</strong>
+  <p>Please consider responding to our very short (only 8 questions!) <a href="https://osu.az1.qualtrics.com/jfe/form/SV_7aIt8srjHmHzLc9">community survey</a></p>
 </div>
 
 ## Overview
