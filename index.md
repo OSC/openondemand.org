@@ -5,10 +5,12 @@
 layout: default
 ---
 
-<div class="alert alert-info">
-  <strong>Open OnDemand community survey</strong>
-  <p>Please consider responding to our very short (only 8 questions!) <a href="https://osu.az1.qualtrics.com/jfe/form/SV_7aIt8srjHmHzLc9">community survey</a></p>
-</div>
+---
+# <div class="alert alert-info">
+#  <strong>Open OnDemand community survey</strong>
+#  <p>Please consider responding to our very short (only 8 questions!) <a href="https://osu.az1.qualtrics.com/jfe/form/SV_7aIt8srjHmHzLc9">community survey</a></p>
+# </div>
+---
 
 ## Overview
 
