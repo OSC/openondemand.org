@@ -29,7 +29,7 @@ The project develops Open OnDemand 2.0, an open-source software that enables acc
 The software employs a unique per-user web server architecture. This gives a user full system-level access to an HPC cluster through a web browser. Job performance visibility is provided by XDMoD, which enables users to make more efficient usage of HPC resources. Innovation and discovery will be integrated through a study which investigates ways to leverage the system-level access provided by Open OnDemand with science gateways. The integrated platform will enhance resource utilization visibility, extend to more resource types and institutions, and support a smooth and easy utilization of HPC resources with intuitive web interfaces.
 
 # NSF Award Details
-OSC, with partners from the University of Virginia and SUNY Buffalo were awarded an NSF grant under the CSSI program managed by the Office of Advanced Cyberinfrastructure
+OSC, with partners from Virginia Tech and SUNY Buffalo were awarded an NSF grant under the CSSI program managed by the Office of Advanced Cyberinfrastructure
 This ~$3.3M award (#1835725) provides funding through the end of 2023 and is formally titled "Frameworks: Software NSCI-Open OnDemand 2.0: Advancing Accessibility and Scalability for Computational Science through Leveraged Software Cyberinfrastructure"
 [NSF site listing for this award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1835725)
 
