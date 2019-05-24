@@ -103,6 +103,9 @@ Please consider contributing to the code repository on Github.  Since January 20
 ### Branding
 Open OnDemand branding assets are available in the [GitHub respository](https://github.com/OSC/Open-OnDemand/tree/gh-pages/assets/images/2017_1108%20Open%20OnDemand%20logo).  Organizations are encouraged to utilize them in their own presentations and installations.
 
+### Software Licensing
+Open OnDemand code is released under the [MIT License](https://opensource.org/licenses/MIT).  Documentation and most publications are released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
 ### Maintained by OSC
 
 This project is maintained by the [Ohio Supercomputer Center (OSC)](https://www.osc.edu), 
