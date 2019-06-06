@@ -81,6 +81,7 @@ Please consider contributing to the code repository on Github.  Since January 20
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2019-06-05 | NITRD Middleware And Grid Interagency Coordination (MAGIC) Meeting | Open OnDemand Overview | [Download](https://figshare.com/articles/Open_OnDemand_Project_Overview/8233421) |
 | 2018-09-26 | Gateways 2018 Presentation | Accessing Distributed Jupyter/Spark in OnDemand | [Download](https://figshare.com/articles/Accessing_Distributed_Jupyter_Spark_in_OnDemand/7137995) |
 | 2018-09-10 | Gateways 2018 Poster | Open OnDemand:  Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/7069691) |
 | 2018-09-10 | Gateways 2018 Paper | Accessing Distributed Jupyter / Spark in OnDemand | [Download](https://figshare.com/articles/Accessing_Distributed_Jupyter_Spark_in_OnDemand/7069679) |
