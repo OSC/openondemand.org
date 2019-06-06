@@ -93,7 +93,8 @@ Please consider contributing to the code repository on Github.  Since January 20
 | 2018-05-15 | Journal of Open Source Software (JOSS) | Open OnDemand: A web-based client portal for HPC centers | [Download](http://joss.theoj.org/papers/10.21105/joss.00622) |
 | 2018-04-30 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6173918/1) |
 | 2017-10-10 | CASC Meeting | Open OnDemand 1.1: Web and Interactive HPC Access | [Download](https://figshare.com/articles/Open_OnDemand_1_1_Web_and_Interactive_HPC_Access/6225734) |
-| 2017-10-09 | Gateways17 | Demo: Developing Apps to Extend Open OnDemand | [Download](https://figshare.com/articles/Demo_Developing_Apps_to_Extend_Open_OnDemand/6225746) |
+| 2017-10-09 | Gateways17 | Demo: Developing Apps to Extend Open OnDemand - Paper | [Download](https://figshare.com/articles/Demo_Developing_Apps_to_Extend_Open_OnDemand/6225746) |
+| 2017-10-09 | Gateways17 | Demo: Developing Apps to Extend Open OnDemand - Slides | [Download](https://figshare.com/articles/Open_OnDemand_Gateways/8236367) |
 | 2017-07-12 | PEARC17 | Open OnDemand: Current Status and Future Plans | [Download](https://figshare.com/articles/Open_OnDemand_Current_Status_and_Future_Plans/6225749) |
 | 2017-05-02 | SIGHPC Education | Open OnDemand: A Web Platform for HPC with applications in the classroom | [Download](https://figshare.com/articles/Open_OnDemand_A_Web_Platform_for_HPC_with_applications_in_the_classroom/6225770) |
 | 2017-01-19 | NSF SI2 PI Workshop | Open OnDemand: Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/6225758) |
