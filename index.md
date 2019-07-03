@@ -25,7 +25,7 @@ but not limited to:
 - Job management and monitoring across different batch servers and resource managers
 - Graphical desktop environments and desktop applications
 
-See the [documentation](https://osc.github.io/ood-documentation/master/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
+See the [documentation](https://osc.github.io/ood-documentation/release-1.6/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
 
 ## Organizations using or exploring OnDemand
 Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us via the [news list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
