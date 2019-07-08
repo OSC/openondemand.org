@@ -53,6 +53,10 @@ Don't take just our word for how great Open OnDemand is!  Here are some comments
    cite="Chris Collins, University of Hull"
 %}
 
+{% include quote.html
+   content="I have a cynical engineer whose default evaluation is ‘this sucks’. After launching Open OnDemand, he said, ‘this is not bad!"
+   cite="Ruth Marinshaw, Stanford"
+%}
 
 ### Maintained by OSC
 
