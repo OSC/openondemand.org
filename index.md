@@ -62,6 +62,11 @@ The Open OnDemand team welcomes and encourages opportunities to collaborate on p
 
 Please consider contributing to the code repository on Github.  Since January 2016 there have been over 8,000 commits to the code base, but we can always use additional development help!
 
+## Project Cybersecurity
+[Trusted CI](https://trustedci.org/) , the NSF Cybersecurity Center of Excellence conducted an in-depth vulnerability assessment of Open OnDemand, completing it in December 2018. This assessment included a careful review of the code, increasing our confidence in its security. The Ohio Supercomputing Center addressed the implementation issues (bugs) that were found during this review, producing a more robust revision of Open OnDemand.
+
+If you have security concerns or think you have found a vulnerability in Open OnDemand, please contact us directly via email on the news list linked above. 
+
 ## Where to Learn More!
 
 ### Webinars
