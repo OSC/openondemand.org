@@ -60,10 +60,8 @@ Don't take just our word for how great Open OnDemand is!  Here are some comments
 
 
 # Publications Mentioning Open OnDemand
-{% include quote.html
-   content="Your browser is the supercomputer: On Demand is a no-tears shortcut to research-computing"
-   cite="[UAB Reporter](https://www.uab.edu/reporter/resources/tools-technology/item/8749) "
-%}
+* "Your browser is the supercomputer: On Demand is a no-tears shortcut to research-computing"
+[UAB Reporter](https://www.uab.edu/reporter/resources/tools-technology/item/8749)
 
 ### Maintained by OSC
 
