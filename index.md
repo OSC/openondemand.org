@@ -79,7 +79,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2018-01-29 | Customizing and Extending Open OnDemand                     | [Download](https://figshare.com/articles/Customizing_and_Extending_OnDemand/6225803)                      | [Video](https://www.youtube.com/watch?v=OxNBSk5_sTw)                                                                                                    |
 | 2018-10-17 | Using Open OnDemand for Training and Education             | [Download](https://figshare.com/articles/Using_Open_OnDemand_for_Training_and_Education/7224779) | [Video](https://www.youtube.com/watch?v=OXwfER4NVrQ) |
 | 2019-4-17 | Open OnDemand Project Recap and Roadmap             | [Download](https://figshare.com/articles/Open_OnDemand_Project_Recap_and_Roadmap/8009687) | [Video](https://www.youtube.com/watch?v=aO679rz1PsE) |
-| 2019-8-20 | Open OnDemand and OpenHPC             | [Download](https://figshare.com/articles/Open_OnDemand_and_OpenHPC/9693260) | [Video]() |
+| 2019-8-20 | Open OnDemand and OpenHPC             | [Download](https://figshare.com/articles/Open_OnDemand_and_OpenHPC/9693260) | [Video](https://vimeo.com/355385200) |
 
 
 
