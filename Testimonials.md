@@ -58,6 +58,11 @@ Don't take just our word for how great Open OnDemand is!  Here are some comments
    cite="Ruth Marinshaw, Stanford"
 %}
 
+{% include quote.html
+   content="Okay you were right Ondemand is freakin sweet"
+   cite="Chris Franck, Virginia Tech"
+%}
+
 
 # Publications Mentioning Open OnDemand
 * "Your browser is the supercomputer: On Demand is a no-tears shortcut to research-computing"
