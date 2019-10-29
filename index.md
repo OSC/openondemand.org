@@ -115,7 +115,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2013-06-13 | XSEDE13 | OSC OnDemand: A Web Platform Integrating Access to HPC Systems, Web and VNC Applications | [Download](https://figshare.com/articles/OSC_OnDemand_A_Web_Platform_Integrating_Access_to_HPC_Systems_Web_and_VNC_Applications/6225776) |
 
 ### Branding
-Open OnDemand branding assets are available in the [GitHub respository](https://github.com/OSC/Open-OnDemand/tree/gh-pages/assets/images/2017_1108%20Open%20OnDemand%20logo).  Organizations are encouraged to utilize them in their own presentations and installations.
+Open OnDemand branding assets are available in the [GitHub repository](https://github.com/OSC/Open-OnDemand/tree/gh-pages/assets/images/2017_1108%20Open%20OnDemand%20logo).  Organizations are encouraged to utilize them in their own presentations and installations.
 
 ### Software Licensing
 Open OnDemand code is released under the [MIT License](https://opensource.org/licenses/MIT).  Documentation and most publications are released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
