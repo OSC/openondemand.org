@@ -87,6 +87,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2019-11-20 | SC'19 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/Open_OnDemand_SC19_User_Group_BoF_Presentation/10315982) |
 | 2019-09-23 | Gateways 19 | Open OnDemand: State of the Platform and the Project | [Download](https://figshare.com/articles/Open_OnDemand_Gateways_2019_Presentation/9892124) |
 | 2019-07-30 | PEARC 19 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/Open_OnDemand_User_Group_BoF/9170768) |
 | 2019-07-30 | PEARC 19 | Scaling R Shiny Apps to Multiple Concurrent Users in a Secured HPC Environment Using Open OnDemand |  [Download](https://figshare.com/articles/Scaling_R_Shiny_Apps_to_Multiple_Concurrent_Users_in_a_Secured_HPC_Environment_Using_Open_OnDemand/9169955) |
