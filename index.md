@@ -12,6 +12,11 @@ layout: default
 </div>
 --->
 
+<div class="alert alert-info">
+  <strong>OSC has a job opening on the Open OnDemand team!</strong>
+  <p>Full details are available here: <a href="https://www.oh-tech.org/employment#ohio-supercomputer-center">https://www.oh-tech.org/employment#ohio-supercomputer-center</a></p>
+</div>
+
 ## Overview
 
 Open OnDemand is an NSF-funded open-source HPC portal based on OSC's original
