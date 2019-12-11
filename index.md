@@ -92,12 +92,13 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2019-12-10 | Proceedings of the ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand: HPC for Everyone | [Download](https://figshare.com/articles/Open_OnDemand_HPC_for_Everyone/11350130) |
 | 2019-11-20 | SC'19 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/Open_OnDemand_SC19_User_Group_BoF_Presentation/10315982) |
 | 2019-09-23 | Gateways 19 | Open OnDemand: State of the Platform and the Project | [Download](https://figshare.com/articles/Open_OnDemand_Gateways_2019_Presentation/9892124) |
 | 2019-07-30 | PEARC 19 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/Open_OnDemand_User_Group_BoF/9170768) |
 | 2019-07-30 | PEARC 19 | Scaling R Shiny Apps to Multiple Concurrent Users in a Secured HPC Environment Using Open OnDemand |  [Download](https://figshare.com/articles/Scaling_R_Shiny_Apps_to_Multiple_Concurrent_Users_in_a_Secured_HPC_Environment_Using_Open_OnDemand/9169955) |
 | 2019-07-29 | ACM SIGHPC SYSPROS Symposium / PEARC 19 | Deploying and Managing an OnDemand Instance | [Download](https://figshare.com/articles/Deploying_and_Managing_an_OnDemand_Instance/9170585) |
-| 2019-06-19 | NISC19 Workshop on Interactive High-Performance Computing | Open OnDemand Pre-conference Paper | [Download](https://figshare.com/articles/Open_OnDemand_ISC19_Workshop_on_Interactive_High-Performance_Computing_Pre-conference_Paper/8300639) |
+| 2019-06-19 | ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand Pre-conference Paper | [Download](https://figshare.com/articles/Open_OnDemand_ISC19_Workshop_on_Interactive_High-Performance_Computing_Pre-conference_Paper/8300639) |
 | 2019-06-19 | ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand Presentation | [Download](https://figshare.com/articles/Open_OnDemand_ISC19_Workshop_on_Interactive_High-Performance_Computing_Presentation/8300603) |
 | 2019-06-05 | NITRD Middleware And Grid Interagency Coordination (MAGIC) Meeting | Open OnDemand Overview | [Download](https://figshare.com/articles/Open_OnDemand_Project_Overview/8233421) |
 | 2018-09-26 | Gateways 2018 Presentation | Accessing Distributed Jupyter/Spark in OnDemand | [Download](https://figshare.com/articles/Accessing_Distributed_Jupyter_Spark_in_OnDemand/7137995) |
