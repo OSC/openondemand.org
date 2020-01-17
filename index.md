@@ -31,7 +31,7 @@ but not limited to:
 - Job management and monitoring across different batch servers and resource managers
 - Graphical desktop environments and desktop applications
 
-See the [documentation](https://osc.github.io/ood-documentation/release-1.6/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.
+See the [documentation](https://osc.github.io/ood-documentation/release-1.6/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.  We also have a [walkthrough video](https://www.youtube.com/watch?v=4-w-4wjlnPk&list=PLiHVyvLHAIcw2sM_MYNVX9B1vBmJgEmW3) showing the various components of an Open OnDemand instance available.
 
 ## Organizations using or exploring OnDemand
 Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us via the [news list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
@@ -86,6 +86,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2018-10-17 | Using Open OnDemand for Training and Education             | [Download](https://figshare.com/articles/Using_Open_OnDemand_for_Training_and_Education/7224779) | [Video](https://www.youtube.com/watch?v=OXwfER4NVrQ) |
 | 2019-4-17 | Open OnDemand Project Recap and Roadmap             | [Download](https://figshare.com/articles/Open_OnDemand_Project_Recap_and_Roadmap/8009687) | [Video](https://www.youtube.com/watch?v=aO679rz1PsE) |
 | 2019-8-20 | Open OnDemand and OpenHPC             | [Download](https://figshare.com/articles/Open_OnDemand_and_OpenHPC/9693260) | [Video](https://vimeo.com/355385200) |
+| 2020-1-17 | Open OnDemand Live Demo | N/A | [Video](https://www.youtube.com/watch?v=4-w-4wjlnPk&list=PLiHVyvLHAIcw2sM_MYNVX9B1vBmJgEmW3) |
 
 
 
