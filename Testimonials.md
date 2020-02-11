@@ -64,6 +64,12 @@ Don't take just our word for how great Open OnDemand is!  Here are some comments
 %}
 
 
+{% include quote.html
+   content="OnDemand makes our efforts and computing resources significantly more valuable, and enables us to reach new communities of users."
+   cite="John McGee, UNC Chapel Hill"
+%}
+
+
 # Publications Mentioning Open OnDemand
 * "Your browser is the supercomputer: On Demand is a no-tears shortcut to research-computing"
 [UAB Reporter](https://www.uab.edu/reporter/resources/tools-technology/item/8749)
