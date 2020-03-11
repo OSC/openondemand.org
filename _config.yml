@@ -18,6 +18,7 @@ email: ood-users@lists.osc.edu
 description: Supercomputing.  Seamlessly. Open, Interactive HPC Via the Web
 url: "https://openondemand.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: osc
+google_analytics: UA-34776817-2
 
 # Build settings
 markdown: kramdown
