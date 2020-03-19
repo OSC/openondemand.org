@@ -94,7 +94,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
-| 2020-03-19 | Campus Research Computing Consortium | Open OnDemand Project Summary | [Download] (http://figshare.com/articles/Open_OnDemand_CaRRC_Preso_200317/12006030) | 
+| 2020-03-19 | Campus Research Computing Consortium | Open OnDemand Project Summary | [Download](http://figshare.com/articles/Open_OnDemand_CaRRC_Preso_200317/12006030) | 
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Better access to HPC with Open OnDemand | [Download](https://figshare.com/articles/Better_access_to_HPC_with_Open_OnDemand/11632173) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Open OnDemand Project Summary | [Download](https://figshare.com/articles/Open_OnDemand_Project_Summary/11632335) |
 | 2019-12-10 | Proceedings of the ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand: HPC for Everyone | [Download](https://figshare.com/articles/Open_OnDemand_HPC_for_Everyone/11350130) |
