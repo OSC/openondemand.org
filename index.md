@@ -5,13 +5,14 @@
 layout: default
 ---
 
-<!---
+
 <div class="alert alert-info">
-  <strong>Open OnDemand community survey</strong>
-  <p>Please consider responding to our very short (only 8 questions!) <a href="https://osu.az1.qualtrics.com/jfe/form/SV_7aIt8srjHmHzLc9">community survey</a></p>
+  <strong>Extraordinary Open OnDemand support for HPC centers supporting COVID-19 research</strong>
+  <p>The Open OnDemand team encourages any HPC center supporting COVID-19 research that could benefit from extraordinary platform development and support to engage with us. For more information, please contact Alan Chalker, Ph.D., Open OnDemand co-PI, by email at alanc@osc.edu or by phone at: (614)247-8672.
+</p>
 </div>
 
-
+<!---
 <div class="alert alert-info">
   <strong>OSC has a job opening on the Open OnDemand team!</strong>
   <p>Full details are available here: <a href="https://www.oh-tech.org/employment#ohio-supercomputer-center">https://www.oh-tech.org/employment#ohio-supercomputer-center</a></p>
