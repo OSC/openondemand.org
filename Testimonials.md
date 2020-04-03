@@ -9,13 +9,13 @@ layout: default
 Don't take just our word for how great Open OnDemand is!  Here are some comments from our engaged community!  
 
 {% include quote.html
-   content="We are really excited about launching this service and the impact it will have on our users - its a very significant modernization of our interface."
-   cite="Eric Appelt, Vanderbilt University"
-%}
+   content="I will say as well, from a systems administration perspective, that based on my experience deploying application stacks like this, OOD appears to be a very high quality suite of software. Several times in working with OOD, I have been pleasantly surprised at how thoughtful the architecture is."
+   cite="Nick Dusek, North Dakota State University"
+%} <!--added on April 3, 2020-->
 
 {% include quote.html
-   content="I'm currently testing implementing OOD here and all has gone quite smoothly so far (really, very nice work, I'm really enjoying working with it). "
-   cite="Dan Dietz, Purdue University"
+   content="We are really excited about launching this service and the impact it will have on our users - its a very significant modernization of our interface."
+   cite="Eric Appelt, Vanderbilt University"
 %}
 
 {% include quote.html
