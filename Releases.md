@@ -5,35 +5,26 @@
 layout: default
 ---
 
+
 # Upcoming Releases
 
-## Version 1.4 (Target: Jan 8 2018)
+The current stable release is 1.6.
 
-1.	Upgrade to Ruby 2.4, NodeJS 6, Passenger 5 (still supporting CentOS/RHEL6,7
-2.	Enhance security
-    * Enable whitelisting directories users can navigate to in files app
-    *	By default disable app development mode
-3.	Fixed copy paste issues in the shell app for browsers other than Chrome
-4.	Optional Quota warnings on dashboard when disk space or file count on file systems reach certain threshold
-5.	Experimental SGE/UGE support
-6.	Ability to make web form’s of interactive apps more dynamic
-7.  For all key features see [1.4 release notes](https://osc.github.io/ood-documentation/release-1.4/release-notes/v1.4-release-notes.html)
+## Version 1.7 (Target: April 13 2020)
 
-## Version 1.5 (Target: January 31 2019)
+1.	LinuxHost adapter (beta)
 
-1.	Basic job arrays support
-2.	Performance improvements
-3. Documenting peer to peer app sharing
-4.	Better support for RStudio
-5.	Localization
-6.	Documentation for enabling Two Factor Authentication using Keycloak and Duo
-7.	Updated web site highlighting third party contributions to OnDemand ecosystem
-8. Bug fixes
-
-If time permits:
-
-1. Submit and manage Job Composer jobs from any directory
-2. Customizable job options for Job Composer
+2. add account balance warnings to Dashboard
+3. branding to Job Composer and Active Jobs that match Dashboard
+4. better SELinux support
+5. maintenance mode
+6. configurable titles for the “favorite paths” in the Files menu
+7. documentation on using Keycloak as identity broker with CILogon
+8. documentation on OSC’s experience supporting custom classroom deployment
+9. drop support for CentOS/RHEL6
+10. upgrade to Ruby 2.5, Node 10, and Passenger 6
+11. add support for CentOS/RHEL8
+12.  For all key features see [1.7 release notes](https://osc.github.io/ood-documentation/release-1.7/release-notes/v1.7-release-notes.html)
 
 # Community Suggestions
 ## Existing Requests
