@@ -12,8 +12,7 @@ The current stable release is 1.6.
 
 ## Version 1.7 (Target: April 13 2020)
 
-1.	LinuxHost adapter (beta)
-
+1. LinuxHost adapter (beta)
 2. add account balance warnings to Dashboard
 3. branding to Job Composer and Active Jobs that match Dashboard
 4. better SELinux support
