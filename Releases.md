@@ -4,14 +4,12 @@ layout: default
 
 # Upcoming Releases
 
-The current stable release is 1.7, 
-
-The next release 1.8 is targeted for July 20 2020.
+## Next release 1.8 is targeted for July 20 2020
 
 * For a high level overview of the main features planned for 1.8 and 2.0, see the [Trello roadmap board](https://trello.com/b/ksr1g141/open-ondemand-ideas-and-dev).
 * For a detailed view of 1.8 issues planned see the [ondemand repo 1.8 milestone issues](https://github.com/OSC/ondemand/milestone/7) and the [ood_core repo milestone issues](https://github.com/OSC/ood_core/milestone/5).
 
-## Version 1.7 (Released April 23 2020)
+## Current stable release 1.7 was released April 23 2020
 
 * See [release announcement](https://discourse.osc.edu/t/announcing-open-ondemand-1-7/862) on Discourse
 * See [1.7 release notes](https://osc.github.io/ood-documentation/release-1.7/release-notes/v1.7-release-notes.html) in the documentation.
