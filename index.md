@@ -88,10 +88,8 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2019-4-17 | Open OnDemand Project Recap and Roadmap             | [Download](https://figshare.com/articles/Open_OnDemand_Project_Recap_and_Roadmap/8009687) | [Video](https://www.youtube.com/watch?v=aO679rz1PsE) |
 | 2019-8-20 | Open OnDemand and OpenHPC             | [Download](https://figshare.com/articles/Open_OnDemand_and_OpenHPC/9693260) | [Video](https://vimeo.com/355385200) |
 | 2020-1-17 | Open OnDemand Live Demo | N/A | [Video](https://www.youtube.com/watch?v=4-w-4wjlnPk&list=PLiHVyvLHAIcw2sM_MYNVX9B1vBmJgEmW3) |
-| 2020-3-18 | Open OnDemand Project Summary | [Download](https://figshare.com/articles/Open_OnDemand_CaRRC_Preso_200317/12006030) | [Video](https://www.youtube.com/watch?v=0jUAUlcUfYg&feature=youtu.be) 
-|
-| 2020-7-02 | NVIDIA HPC Summit 2020 - Integrating Cloud Tools to HPC Workflows  | [Download](https://figshare.com/articles/presentation/NVIDIA_HPC_Summit_2020_-_Integrating_Cloud_Tools_to_HPC_Workflows/12597521) |Video  
-|
+| 2020-3-18 | Open OnDemand Project Summary | [Download](https://figshare.com/articles/Open_OnDemand_CaRRC_Preso_200317/12006030) | [Video](https://www.youtube.com/watch?v=0jUAUlcUfYg&feature=youtu.be) |
+| 2020-7-02 | NVIDIA HPC Summit 2020 - Integrating Cloud Tools to HPC Workflows  | [Download](https://figshare.com/articles/presentation/NVIDIA_HPC_Summit_2020_-_Integrating_Cloud_Tools_to_HPC_Workflows/12597521) | Video  |
 | 2020-7-08 | Supercomputing. Seamlessly. Interactive computing via Open OnDemand. Everywhere.  | [Download](https://figshare.com/articles/presentation/Open_OnDemand_SGCI_Preso_200701/12597512) | Video  |
 
 
