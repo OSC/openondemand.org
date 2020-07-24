@@ -4,7 +4,7 @@ layout: default
 
 # Upcoming Releases
 
-## Next release 1.8 is targeted for July 20 2020
+## Next release 1.8 is targeted for August 17 2020
 
 * For a high level overview of the main features planned for 1.8 and 2.0, see the [Trello roadmap board](https://trello.com/b/ksr1g141/open-ondemand-ideas-and-dev).
 * For a detailed view of 1.8 issues planned see the [ondemand repo 1.8 milestone issues](https://github.com/OSC/ondemand/milestone/7) and the [ood_core repo milestone issues](https://github.com/OSC/ood_core/milestone/5).
