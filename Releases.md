@@ -26,7 +26,7 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%
 * Send an email to us on the [mailing list](https://lists.osu.edu/mailman/listinfo/ood-users)
 
 #Previous Release Notes
-[Release Notes are available on the Open OnDemand documentation pages](https://osc.github.io/ood-documentation/master/)
+[Release Notes are available on the Open OnDemand documentation pages](https://osc.github.io/ood-documentation/latest/)
 
 ### Maintained by OSC
 
