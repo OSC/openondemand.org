@@ -9,7 +9,7 @@ layout: default
 * For a high level overview of the main features planned for 2.0, see the [Trello roadmap board](https://trello.com/b/ksr1g141/open-ondemand-ideas-and-dev).
 * For a detailed view of 2.0 release issues planned see the [ondemand repo 2.0 milestone issues](https://github.com/OSC/ondemand/milestone/9) and the [ood_core repo milestone issues](https://github.com/OSC/ood_core/milestone/6).
 
-## Next patch release for 1.8 targeted for Septembmer 2020
+## Next patch release for 1.8 targeted for September 2020
 
 * For a detailed view of 1.8 patch release issues planned see the [ondemand repo 1.8-patch milestone issues](https://github.com/OSC/ondemand/milestone/10) and the [ood_core repo milestone issues](https://github.com/OSC/ood_core/milestone/7).
 
