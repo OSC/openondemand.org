@@ -96,8 +96,10 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2020-08-25 | OOD Advisory Group Quarterly | Open OnDemand Update | [Download](https://figshare.com/articles/presentation/Open_OnDemand_Advisory_Group_update/13150649) |
 | 2020-07-28 | PEARC'20 | Open OnDemand User Group BOF | [Download](https://figshare.com/articles/presentation/Open_OnDemand_User_Group_BoF/13150619) |
 | 2020-07-16 | Big Ten Academic Alliance Research Computing Group | Open OnDemand Overview | [Download](https://figshare.com/articles/presentation/Open_OnDemand_overview/13150628) |
+| 2020-04-30 | OOD Advisory Group Quarterly | Open OnDemand Update | [Download](https://figshare.com/articles/presentation/Open_OnDemand_update/13150661) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Better access to HPC with Open OnDemand | [Download](https://figshare.com/articles/Better_access_to_HPC_with_Open_OnDemand/11632173) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Open OnDemand Project Summary | [Download](https://figshare.com/articles/Open_OnDemand_Project_Summary/11632335) |
 | 2020-01-13 | GIR Research Technology Work Group Monthly Call | Open OnDemand Project Summary | [Download](https://figshare.com/articles/presentation/Open_OnDemand_Overview/13150604) |
