@@ -105,6 +105,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2020-07-27 | PEARC'20 | Open OnDemand, Open XDMoD, and ColdFront: An HPC center management toolset | [Download](https://figshare.com/articles/presentation/Open_OnDemand_Open_XDMoD_and_ColdFront_An_HPC_center_management_toolset/13150691) |
 | 2020-07-16 | Big Ten Academic Alliance Research Computing Group | Open OnDemand Overview | [Download](https://figshare.com/articles/presentation/Open_OnDemand_overview/13150628) |
 | 2020-04-30 | OOD Advisory Group Quarterly | Open OnDemand Update | [Download](https://figshare.com/articles/presentation/Open_OnDemand_update/13150661) |
+| 2020-03-26 | Tools and Techniques for High Performance Computing - Selected Workshops | Portals for Interactive Steering of HPC Workflows | [Download](https://link.springer.com/chapter/10.1007/978-3-030-44728-1_11) |
 | 2020-03-25 | GTC'20 | Supercomputing. Seamlessly. Interactive computing with GPUs via Open OnDemand. Everywhere. | [Download](https://figshare.com/articles/presentation/Supercomputing_Seamlessly_Interactive_computing_with_GPUs_via_Open_OnDemand_Everywhere_/13160849) |
 | 2020-02-26 | Lenovo User Meeting | HPC at VT | [Download](https://figshare.com/articles/presentation/HPC_at_VT/13160840) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Better access to HPC with Open OnDemand | [Download](https://figshare.com/articles/Better_access_to_HPC_with_Open_OnDemand/11632173) |
@@ -114,6 +115,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2019-12-10 | Proceedings of the ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand: HPC for Everyone | [Download](https://figshare.com/articles/Open_OnDemand_HPC_for_Everyone/11350130) |
 | 2019-11-13 | Nor-Tech | Southwest Research Institute Takes Advantage of Nor-Tech’s Trailblazing Cluster Utility | [Download](https://www.nor-tech.com/wp-content/uploads/2019/11/nor-tech-case-study-swri.pdf)
 | 2019-11-20 | SC'19 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/Open_OnDemand_SC19_User_Group_BoF_Presentation/10315982) |
+| 2019-11-18 | Third Workshop on Interactive High-Performance Computing | Portals for Interactive Steering of HPC Workflows | [Download]() |
 | 2019-11-01 | OSC Annual Research Report | Processing Power | [Download](https://www.osc.edu/research/research-reports/2019/processing_power) |
 | 2019-11-01 | OSC Annual Research Report | Process Automation | [Download](https://www.osc.edu/research/research-reports/2019/process_automation) |
 | 2019-09-23 | Gateways 19 | Open OnDemand: State of the Platform and the Project | [Download](https://figshare.com/articles/Open_OnDemand_Gateways_2019_Presentation/9892124) |
