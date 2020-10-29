@@ -105,6 +105,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2020-07-27 | PEARC'20 | Open OnDemand, Open XDMoD, and ColdFront: An HPC center management toolset | [Download](https://figshare.com/articles/presentation/Open_OnDemand_Open_XDMoD_and_ColdFront_An_HPC_center_management_toolset/13150691) |
 | 2020-07-16 | Big Ten Academic Alliance Research Computing Group | Open OnDemand Overview | [Download](https://figshare.com/articles/presentation/Open_OnDemand_overview/13150628) |
 | 2020-04-30 | OOD Advisory Group Quarterly | Open OnDemand Update | [Download](https://figshare.com/articles/presentation/Open_OnDemand_update/13150661) |
+| 2020-03-25 | GTC'20 | Supercomputing. Seamlessly. Interactive computing with GPUs via Open OnDemand. Everywhere. | [Download](https://figshare.com/articles/presentation/Supercomputing_Seamlessly_Interactive_computing_with_GPUs_via_Open_OnDemand_Everywhere_/13160849) |
 | 2020-02-26 | Lenovo User Meeting | HPC at VT | [Download](https://figshare.com/articles/presentation/HPC_at_VT/13160840) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Better access to HPC with Open OnDemand | [Download](https://figshare.com/articles/Better_access_to_HPC_with_Open_OnDemand/11632173) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Open OnDemand Project Summary | [Download](https://figshare.com/articles/Open_OnDemand_Project_Summary/11632335) |
