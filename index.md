@@ -105,9 +105,10 @@ If you have security concerns or think you have found a vulnerability in Open On
 | 2020-07-27 | PEARC'20 | Open OnDemand, Open XDMoD, and ColdFront: An HPC center management toolset | [Download](https://figshare.com/articles/presentation/Open_OnDemand_Open_XDMoD_and_ColdFront_An_HPC_center_management_toolset/13150691) |
 | 2020-07-16 | Big Ten Academic Alliance Research Computing Group | Open OnDemand Overview | [Download](https://figshare.com/articles/presentation/Open_OnDemand_overview/13150628) |
 | 2020-04-30 | OOD Advisory Group Quarterly | Open OnDemand Update | [Download](https://figshare.com/articles/presentation/Open_OnDemand_update/13150661) |
+| 2020-02-26 | Lenovo User Meeting | HPC at VT | [Download](https://figshare.com/articles/presentation/HPC_at_VT/13160840) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Better access to HPC with Open OnDemand | [Download](https://figshare.com/articles/Better_access_to_HPC_with_Open_OnDemand/11632173) |
-| 2020-02-10 | OOD Advisory Group Quarterly | Open OnDemand Update | [Download](https://figshare.com/articles/presentation/Untitled_Item/13160819) |
 | 2020-02-13 | 2020 NSF CSSI PI Meeting | Open OnDemand Project Summary | [Download](https://figshare.com/articles/Open_OnDemand_Project_Summary/11632335) |
+| 2020-02-10 | OOD Advisory Group Quarterly | Open OnDemand Update | [Download](https://figshare.com/articles/presentation/Untitled_Item/13160819) |
 | 2020-01-13 | GIR Research Technology Work Group Monthly Call | Open OnDemand Project Summary | [Download](https://figshare.com/articles/presentation/Open_OnDemand_Overview/13150604) |
 | 2019-12-10 | Proceedings of the ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand: HPC for Everyone | [Download](https://figshare.com/articles/Open_OnDemand_HPC_for_Everyone/11350130) |
 | 2019-11-13 | Nor-Tech | Southwest Research Institute Takes Advantage of Nor-Tech’s Trailblazing Cluster Utility | [Download](https://www.nor-tech.com/wp-content/uploads/2019/11/nor-tech-case-study-swri.pdf)
