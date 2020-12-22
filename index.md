@@ -99,6 +99,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2020-12-22 | HPCWire | OnDemand Portal Accelerates HPC Work for Academic and Industrial Users | [Download](https://www.hpcwire.com/2020/12/21/ondemand-portal-accelerates-hpc-work-for-academic-and-industrial-users/) |
 | 2020-12-03 | Concurrency and Computation: Practice and Experience | Open OnDemand: State of the Platform, Project and the Future | [Download](https://figshare.com/articles/journal_contribution/Open_OnDemand_State_of_the_Platform_Project_and_the_Future/13161248) |
 | 2020-10-19 | Gateways'20 | Cloud HPC with Open OnDemand and Cloudy Cluster | [Download](https://figshare.com/articles/poster/Cloud_HPC_with_Open_OnDemand_and_Cloudy_Cluster/13150703) |
 | 2020-10-13 | Gateways'20 | Open OnDemand, Open XDMoD, and ColdFront: An HPC center management toolset | [Download](https://figshare.com/articles/presentation/UntitledOpen_OnDemand_Open_XDMoD_and_ColdFront_An_HPC_center_management_toolset_Item/13150676) |
