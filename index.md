@@ -14,8 +14,8 @@ layout: default
 --->
 
 <div class="alert alert-info">
-  <strong>OSC has a job opening on the Open OnDemand team!</strong>
-  <p>Full details are available here: <a href="https://www.oh-tech.org/employment#ohio-supercomputer-center">https://www.oh-tech.org/employment#ohio-supercomputer-center</a></p>
+  <strong>OSC has a job opening for a software developer on the Open OnDemand team!</strong>
+  <p>Please contact Alan Chalker (alanc@osc.edu) for more information</p>
 </div>
 
 
