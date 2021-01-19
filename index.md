@@ -99,6 +99,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-01-19 | Intel | Case Study: Ohio Supercomputer Center OnDemand Portal Accelerates Remote Learning | [Download](https://www.intel.com/content/dam/www/public/us/en/documents/case-studies/ohio-supercomputer-center-ondemand-portal-case-study.pdf) |
 | 2021-01-07 | ICICT 2021 | Open OnDemand as a platform for Virtual Learning in Higher Education | [Download](https://figshare.com/articles/journal_contribution/Open_OnDemand_as_a_platform_for_Virtual_Learning_in_Higher_Education/13542026) |
 | 2020-12-22 | HPCWire | OnDemand Portal Accelerates HPC Work for Academic and Industrial Users | [Download](https://www.hpcwire.com/2020/12/21/ondemand-portal-accelerates-hpc-work-for-academic-and-industrial-users/) |
 | 2020-12-03 | Concurrency and Computation: Practice and Experience | Open OnDemand: State of the Platform, Project and the Future | [Download](https://figshare.com/articles/journal_contribution/Open_OnDemand_State_of_the_Platform_Project_and_the_Future/13161248) |
