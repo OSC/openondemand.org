@@ -70,9 +70,11 @@ The Open OnDemand team welcomes and encourages opportunities to collaborate on p
 Please consider contributing to the code repository on Github.  Since January 2016 there have been over 8,000 commits to the code base, but we can always use additional development help!
 
 ## Project Cybersecurity
-[Trusted CI](https://trustedci.org/) , the NSF Cybersecurity Center of Excellence conducted an in-depth vulnerability assessment of Open OnDemand, completing it in December 2018. This assessment included a careful review of the code, increasing our confidence in its security. The Ohio Supercomputing Center addressed the implementation issues (bugs) that were found during this review, producing a more robust revision of Open OnDemand.
+[Trusted CI](https://trustedci.org/) , the NSF Cybersecurity Center of Excellence conducted an in-depth vulnerability assessment of Open OnDemand, completing it in December 2018. This assessment included a careful review of the code, increasing our confidence in its security. The Ohio Supercomputer Center addressed the implementation issues (bugs) that were found during this review, producing a more robust revision of Open OnDemand.
 
-If you have security concerns or think you have found a vulnerability in Open OnDemand, please contact us directly via email on the news list linked above. 
+In January, 2021, The Open OnDemand team and Trusted CI began another engagement to to accomplish three distinct objectives:Integration of security automation into DevOps flows; Skills transfer for vulnerability assessment; Development of needed security policies, practices, and procedures.  Upon completion of this project later in 2021, the Open OnDemand team will be much better positioned with regards to security dev ops.
+
+If you have security concerns or think you have found a vulnerability in Open OnDemand that you want to responsibly disclose, please contact us directly via email on the news list linked above or utilizing the ["Report a Potential Security Incident"](https://www.osc.edu/contact/security) form on the OSC website. 
 
 ## Where to Learn More!
 
