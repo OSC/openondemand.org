@@ -101,6 +101,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-02-15 | Kent State | KSU architecture students access supercomputers to help with coursework | [Download](http://www.kentwired.com/latest_updates/article_0bf46058-6e50-11eb-8aee-f334e4dc53b2.html) |
 | 2021-02-02 | Google | Introducing HPC VM images—pre-tuned for optimal performance | [Download](https://cloud.google.com/blog/topics/hpc/introducing-hpc-vm-images) |
 | 2021-02-01 | HPCWire | Ohio Supercomputing Center Provides Students Remote Access to Clusters During COVID-19 Crisis | [Download](https://www.hpcwire.com/off-the-wire/ohio-supercomputing-center-provides-students-remote-access-to-clusters-during-covid-19-crisis/) |
 | 2021-01-19 | Intel | Case Study: Ohio Supercomputer Center OnDemand Portal Accelerates Remote Learning | [Download](https://www.intel.com/content/dam/www/public/us/en/documents/case-studies/ohio-supercomputer-center-ondemand-portal-case-study.pdf) |
