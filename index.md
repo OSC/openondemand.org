@@ -18,8 +18,19 @@ layout: default
   <p>Please contact Alan Chalker (alanc@osc.edu) for more information</p>
 </div>
 
-
 ## Overview
+
+### An intuitive, innovation, and interactive interface to remote computing resources
+
+Open OnDemand helps computational researchers and students efficiently utilize remote cmoputing resources by making them easy to access from any device.  It helps computer center staff support a wide range of clients by simplifying the user interface and experience.
+
+### Key Benefits & Impact
+
+Key benefit to you, the end user:  You can use any web browser to access resources at a computing service provider.
+Key benefit to you, the computer center staff:  A wdie range of clients/needs can utilize your computing resources.
+Overall impact:  Users are able to use remote computing resources faster and more efficiently.
+
+### Features & More Information
 
 Open OnDemand is an NSF-funded open-source HPC portal based on OSC's original
 OnDemand portal.  The goal of Open OnDemand is to provide an easy way for
@@ -33,6 +44,20 @@ but not limited to:
 - Graphical desktop environments and desktop applications
 
 See the [documentation](https://osc.github.io/ood-documentation/latest/) for installation directions, app development tutorials, and an overview of the components and applications that make up OnDemand.  We also have a [walkthrough video](https://www.youtube.com/watch?v=4-w-4wjlnPk&list=PLiHVyvLHAIcw2sM_MYNVX9B1vBmJgEmW3) showing the various components of an Open OnDemand instance available.
+
+### Available Applications
+
+Most of the most popular scientific applications as easilier made available to clients via Open OnDemand. A regularly updated list of these is available in the [documentation](https://osc.github.io/ood-documentation/latest/install-ihpc-apps.html) and includes software such as:
+* Abaqus
+* ANSYS
+* COMSOL
+* MATLAB
+* Jupyter
+* RStudio
+* QGIS
+* Paraview
+* STATA
+* Tensorboard
 
 ## Organizations using or exploring OnDemand
 Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us via the [news list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
@@ -64,10 +89,16 @@ There are 2 ways you can have a demo Open OnDemand instance running in minutes:
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
 ) we are already planning on working.  Note - you must be logged in to GitHub to see this list.
 
-### Collaborating with Open OnDemand
+### Collaboration and Financial Model
 The Open OnDemand team welcomes and encourages opportunities to collaborate on proposals with members of our community in response a variety of solicitations. Examples of potential collaboration roles our team can have include developing and delivering related client education and training programs, and providing extended support services for software deployment and custom workflow development. Please contact us via the news list if you would like to discuss a potential collaboration.
 
 Please consider contributing to the code repository on Github.  Since January 2016 there have been over 8,000 commits to the code base, but we can always use additional development help!
+
+Currently, the primary source of funding for the development of Open OnDemand is via an NSF award.  The long term sustainability model for Open OnDemand is to get support from a variety of sources and types as listed the below, with current examples in parentheses.  Please free free to contact the Open OnDemand team with additional suggestions or for more details.
+* Direct grants (e.g. NSF, Google)
+* Institutional adopters contributions (e.g. Texas A&M code contributions)
+* Institutional service / development contracts (no current ones)
+* Software / hardware provider engagements (e.g. Intel case studies, NVIDIA GTC presentations)
 
 ## Project Cybersecurity
 [Trusted CI](https://trustedci.org/) , the NSF Cybersecurity Center of Excellence conducted an in-depth vulnerability assessment of Open OnDemand, completing it in December 2018. This assessment included a careful review of the code, increasing our confidence in its security. The Ohio Supercomputer Center addressed the implementation issues (bugs) that were found during this review, producing a more robust revision of Open OnDemand.
