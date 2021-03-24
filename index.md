@@ -22,7 +22,7 @@ layout: default
 
 ### An intuitive, innovation, and interactive interface to remote computing resources
 
-Open OnDemand helps computational researchers and students efficiently utilize remote cmoputing resources by making them easy to access from any device.  It helps computer center staff support a wide range of clients by simplifying the user interface and experience.
+Open OnDemand helps computational researchers and students efficiently utilize remote computing resources by making them easy to access from any device.  It helps computer center staff support a wide range of clients by simplifying the user interface and experience.
 
 ### Key Benefits & Impact
 
