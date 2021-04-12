@@ -27,7 +27,7 @@ Open OnDemand helps computational researchers and students efficiently utilize r
 ### Key Benefits & Impact
 
 * Key benefit to you, the end user:  You can use any web browser to access resources at a computing service provider.
-* Key benefit to you, the computer center staff:  A wdie range of clients/needs can utilize your computing resources.
+* Key benefit to you, the computer center staff:  A wide range of clients/needs can utilize your computing resources.
 * Overall impact:  Users are able to use remote computing resources faster and more efficiently.
 
 ### Features & More Information
