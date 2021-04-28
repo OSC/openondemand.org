@@ -133,6 +133,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-04-28 | HPCSIG | Open OnDemand Overview | [Download](https://figshare.com/articles/presentation/Open_OnDemand_HPCSIG_Presentation/14501892) |
 | 2021-02-16 | Trusted CI | Trusted CI Begins Engagement with Open OnDemand | [Download](https://blog.trustedci.org/2021/02/trusted-ci-begins-engagement-with-open.html) |
 | 2021-02-15 | Kent State | KSU architecture students access supercomputers to help with coursework | [Download](http://www.kentwired.com/latest_updates/article_0bf46058-6e50-11eb-8aee-f334e4dc53b2.html) |
 | 2021-02-02 | Google | Introducing HPC VM images—pre-tuned for optimal performance | [Download](https://cloud.google.com/blog/topics/hpc/introducing-hpc-vm-images) |
