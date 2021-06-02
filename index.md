@@ -14,8 +14,7 @@ layout: default
 --->
 
 <div class="alert alert-info">
-  <strong>OSC has a job opening for a software developer on the Open OnDemand team!</strong>
-  <p>The posting is available at (https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Web---Interface-App-Lead-Engineer_R17290)</p>
+  <strong>OSC has a job opening for a software developer on the Open OnDemand team!</strong> The posting is available at https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Web---Interface-App-Lead-Engineer_R17290
 </div>
 
 
