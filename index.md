@@ -11,13 +11,13 @@ layout: default
   <p>The Open OnDemand team encourages any HPC center supporting COVID-19 research that could benefit from extraordinary platform development and support to engage with us. For more information, please contact Alan Chalker, Ph.D., Open OnDemand co-PI, by email at alanc@osc.edu or by phone at: (614)247-8672.
 </p>
 </div>
-
+--->
 
 <div class="alert alert-info">
   <strong>OSC has a job opening for a software developer on the Open OnDemand team!</strong>
-  <p>Please contact Alan Chalker (alanc@osc.edu) for more information</p>
+  <p>The posting is available at [this link](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Web---Interface-App-Lead-Engineer_R17290)</p>
 </div>
---->
+
 
 ## Overview
 
