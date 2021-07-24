@@ -132,6 +132,8 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-07-20 | PEARC'21 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/presentation/Open_OnDemand_PEARC_User_Group_BoF/15048225) |
+| 2021-07-19 | PEARC'21 | HPC Toolset Tutorial | [Download](| 2021-07-20 | PEARC'21 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/presentation/Open_OnDemand_PEARC_User_Group_BoF/15048225) |) |
 | 2021-07-12 | Microsoft | Azure HPC OnDemand Platform: Cloud HPC made easy. | [Download](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338) |
 | 2021-06-18 | HPCwire | OSC Enables On-Demand HPC for Automotive Engineering Firm | [Download](https://www.hpcwire.com/2021/06/18/osc-enables-on-demand-hpc-for-automotive-engineering-firm/) |
 | 2021-04-28 | HPCSIG | Open OnDemand Overview | [Download](https://figshare.com/articles/presentation/Open_OnDemand_HPCSIG_Presentation/14501892) |
