@@ -134,6 +134,7 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-08-03 | Trusted CI | Initial Findings of the 2021 Trusted CI Annual Challenge on Software Assurance | [Download](https://blog.trustedci.org/2021/08/initial-findings-of-2021-trusted-ci.html) |
 | 2021-07-20 | PEARC'21 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/presentation/Open_OnDemand_PEARC_User_Group_BoF/15048225) |
 | 2021-07-19 | PEARC'21 | HPC Toolset Tutorial | [Download](https://figshare.com/articles/presentation/Open_OnDemand_PEARC_User_Group_BoF/15048225)  |
 | 2021-07-12 | Microsoft | Azure HPC OnDemand Platform: Cloud HPC made easy. | [Download](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338) |
