@@ -110,6 +110,9 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 ## Where to Learn More!
 
+### Monthly Community Meetings
+The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webinar on the first Thursday of the month at 10am PT/ 11am MT / 12pm CT / 1pm ET.  More details on specific agendas and the Zoom coordinates are available in [this Discourse thread](https://discourse.osc.edu/t/open-ondemand-tips-and-tricks-calls/1684)
+
 ### Webinars / Videos
 
 | Date   | Publisher/Event    | Title                                                                              | Slides                                                                                  | Media                                                                                                                                                                      |
