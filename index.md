@@ -137,6 +137,7 @@ The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webi
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-10-05 | Dell | Making HPC ‘Open OnDemand’ | [Download](https://www.delltechnologies.com/asset/en-us/products/ready-solutions/customer-stories-case-studies/dell-osc-open-ondemand-case-study.pdf) |
 | 2021-09-24 | Proceedings of Sixth International Congress on Information and Communication Technology | Open OnDemand as a Platform for Virtual Learning in Higher Education | [Download](https://www.springer.com/gp/book/9789811617805) |
 | 2021-08-03 | Trusted CI | Initial Findings of the 2021 Trusted CI Annual Challenge on Software Assurance | [Download](https://blog.trustedci.org/2021/08/initial-findings-of-2021-trusted-ci.html) |
 | 2021-07-20 | PEARC'21 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/presentation/Open_OnDemand_PEARC_User_Group_BoF/15048225) |
