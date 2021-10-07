@@ -60,7 +60,7 @@ Most of the most popular scientific applications as easilier made available to c
 * Tensorboard
 
 ## Organizations using or exploring OnDemand
-Below is a list of organizations that have deployed or are looking at deploying Open OnDemand.  Please contact us via the [news list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
+Below is a list of organizations that have deployed Open OnDemand.  Please contact us via the [news list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
 
 [We also have a page with testimonial comments from many of these organizations](Testimonials.md)
 
