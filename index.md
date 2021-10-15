@@ -138,6 +138,7 @@ The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webi
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-10-15 | Gateways'21 | Open OnDemand App Development and Integration | [Download](https://zenodo.org/record/5570225) |
 | 2021-10-05 | Dell | Making HPC ‘Open OnDemand’ | [Download](https://www.delltechnologies.com/asset/en-us/products/ready-solutions/customer-stories-case-studies/dell-osc-open-ondemand-case-study.pdf) |
 | 2021-10-04 | HPCwire | Sharing the wealth of HPC-driven apps with flexible as-a-service models | [Download](https://www.hpcwire.com/2021/10/04/sharing-the-wealth-of-hpc-driven-apps-with-flexible-as-a-service-models/) |
 | 2021-09-24 | Proceedings of Sixth International Congress on Information and Communication Technology | Open OnDemand as a Platform for Virtual Learning in Higher Education | [Download](https://www.springer.com/gp/book/9789811617805) |
