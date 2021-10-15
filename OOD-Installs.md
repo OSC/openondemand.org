@@ -1,4 +1,14 @@
-| Date | Publisher/Event | Title | Content Access |
-| :----: | :----: | :----: | :----: |
-| 2021-10-15 | Gateways'21 | Open OnDemand App Development and Integration | [Download](https://zenodo.org/record/5570225) |
-| 2021-10-05 | Dell | Making HPC ‘Open OnDemand’ | [Download](https://www.delltechnologies.com/asset/en-us/products/ready-solutions/customer-stories-case-studies/dell-osc-open-ondemand-case-study.pdf) |
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
+
+# Institutional OnDemand Webpages
+Here's direct links to the local webpages for institutions using Open OnDemand:
+
+| Institution | OnDemand Webpage |
+| :----: | :----: |
+| Ohio Supercomputer Center | [Website](https://ondemand.osc.edu/) |
+
