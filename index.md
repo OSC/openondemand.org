@@ -64,6 +64,8 @@ Below is a list of organizations that have deployed Open OnDemand.  Please conta
 
 [We also have a page with testimonial comments from many of these organizations](Testimonials.md)
 
+[And a page linking to the various organizations own documentations of their own OnDemand installation](OOD-Installs.md)
+
 <iframe src="https://widgets.figshare.com/articles/6890636/embed?show_title=0" width="500" height="375" frameborder="0"></iframe>
 
 ## Run your own live demo
