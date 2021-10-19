@@ -59,12 +59,10 @@ Most of the most popular scientific applications as easilier made available to c
 * STATA
 * Tensorboard
 
-## Organizations using or exploring OnDemand
+## Organizations using OnDemand
 Below is a list of organizations that have deployed Open OnDemand.  Please contact us via the [news list](https://lists.osu.edu/mailman/listinfo/ood-users) if your organization is not on this list and should be included!
 
-[We also have a page with testimonial comments from many of these organizations](Testimonials.md)
-
-[And a page linking to the various organizations own documentations of their own OnDemand installation](OOD-Installs.md)
+We also have [testimonial comments](Testimonials.md) and [links to local OnDemand information](OOD-Installs.md) for many of these organizations.
 
 <iframe src="https://widgets.figshare.com/articles/6890636/embed?show_title=0" width="500" height="375" frameborder="0"></iframe>
 
