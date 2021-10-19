@@ -31,7 +31,7 @@ Here's direct links to the local webpages for institutions using Open OnDemand:
 | Instituut Lorentz | [Website](https://helpdesk.strw.leidenuniv.nl/wiki/doku.php?id=institute_lorentz:xmaris) |
 | University of Kentucky | [Website](https://docs.ccs.uky.edu/display/HPC/Open+OnDemand+%28OOD%29+Web+Portal+for+CCS) |
 | Lehigh University | [Website](https://confluence.cc.lehigh.edu/display/hpc/Portal#:~:text=Open%20OnDemand%20(OOD)%20is%20an,Easy%20file%20management) |
-| LSU | [Website](https://ondemand.mike.hpc.lsu.edu/) |
+| Louisiana State University | [Website](https://ondemand.mike.hpc.lsu.edu/) |
 | University of Maryland | [Website](https://hpcc.umd.edu/hpcc/help/ood.html) |
 | University of Michigan | [Website](https://arc.umich.edu/open-ondemand/) |
 | Michigan State University | [Website](https://wiki.hpcc.msu.edu/display/ITH/Open+OnDemand) |
@@ -54,7 +54,7 @@ Here's direct links to the local webpages for institutions using Open OnDemand:
 | Rutgers University | [Website](https://ondemand.hpc.rutgers.edu/) |
 | South Dakota State University | [Website](https://rcwiki.sdstate.edu/view/SDSU%20OnDemand/) |
 | University of Southern California | [Website](https://carc.usc.edu/user-information/user-guides/hpc-basics/getting-started-ondemand) |
-| SMU | [Website](http://faculty.smu.edu/csc/documentation/access.html) |
+| Southern Methodist University | [Website](http://faculty.smu.edu/csc/documentation/access.html) |
 | Stanford University | [Website](https://www.sherlock.stanford.edu/docs/user-guide/ondemand/) |
 | University of Tennessee Knoxville | [Website](https://oit.utk.edu/hpsc/isaac-open/open-ondemand-user-guide/) |
 | Texas A&M Univesity | [Website](https://hprc.tamu.edu/files/training/2018/Spring/Intro-OOD.pdf) |
