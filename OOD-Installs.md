@@ -21,6 +21,7 @@ Here's direct links to the local webpages for institutions using Open OnDemand:
 | California Institute of Technology | [Website](https://www.hpc.caltech.edu/visualization-ood) |
 | Case Western Reserve University | [Website](https://sites.google.com/a/case.edu/hpcc/hpc-cluster/quick-start) |
 | University of Central Oklahoma | [Website](https://www.uco.edu/cms/research-centers/creic/buddy-supercomputer) |
+| CSC - IT Center for Science | [Website](https://docs.csc.fi/computing/webinterface/) |
 | University of Florida | [Website](https://help.rc.ufl.edu/doc/Open_OnDemand) |
 | Florida State University | [Website](https://rcc.fsu.edu/docs/ood) |
 | George Mason University | [Website](http://wiki.orc.gmu.edu/mkdocs/open_ondemand_on_Hopper/) |
