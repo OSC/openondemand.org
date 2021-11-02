@@ -102,9 +102,9 @@ Currently, the primary source of funding for the development of Open OnDemand is
 * Software / hardware provider engagements (e.g. Intel case studies, NVIDIA GTC presentations)
 
 ## Project Cybersecurity
-[Trusted CI](https://trustedci.org/) , the NSF Cybersecurity Center of Excellence conducted an in-depth vulnerability assessment of Open OnDemand, completing it in December 2018. This assessment included a careful review of the code, increasing our confidence in its security. The Ohio Supercomputer Center addressed the implementation issues (bugs) that were found during this review, producing a more robust revision of Open OnDemand.
+[Trusted CI](https://trustedci.org/) , the NSF Cybersecurity Center of Excellence conducted an [in-depth vulnerability assessment of Open OnDemand](https://figshare.com/articles/presentation/TrustedCI_Open_OnDemand_2018_Audit/16918564), completing it in December 2018. This assessment included a careful review of the code, increasing our confidence in its security. The Ohio Supercomputer Center addressed the implementation issues (bugs) that were found during this review, producing a more robust revision of Open OnDemand.
 
-In January, 2021, The Open OnDemand team and Trusted CI began another engagement to to accomplish three distinct objectives:Integration of security automation into DevOps flows; Skills transfer for vulnerability assessment; Development of needed security policies, practices, and procedures.  Upon completion of this project later in 2021, the Open OnDemand team will be much better positioned with regards to security dev ops.
+In January, 2021, The Open OnDemand team and Trusted CI began another engagement to to accomplish three distinct objectives:Integration of security automation into DevOps flows; Skills transfer for vulnerability assessment; Development of needed security policies, practices, and procedures.  Upon completion of this project, [Trusted CI issued a report](https://figshare.com/articles/presentation/TrustedCI_Open_Ondemand_2021_Audit/16918570) and the Open OnDemand team is now much better positioned with regards to security dev ops.
 
 If you have security concerns or think you have found a vulnerability in Open OnDemand that you want to responsibly disclose, please contact us directly via email on the news list linked above or utilizing the ["Report a Potential Security Incident"](https://www.osc.edu/contact/security) form on the OSC website. 
 
@@ -148,6 +148,7 @@ The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webi
 | 2021-10-04 | HPCwire | Sharing the wealth of HPC-driven apps with flexible as-a-service models | [Download](https://www.hpcwire.com/2021/10/04/sharing-the-wealth-of-hpc-driven-apps-with-flexible-as-a-service-models/) |
 | 2021-09-24 | Proceedings of Sixth International Congress on Information and Communication Technology | Open OnDemand as a Platform for Virtual Learning in Higher Education | [Download](https://www.springer.com/gp/book/9789811617805) |
 | 2021-08-03 | Trusted CI | Initial Findings of the 2021 Trusted CI Annual Challenge on Software Assurance | [Download](https://blog.trustedci.org/2021/08/initial-findings-of-2021-trusted-ci.html) |
+| 2021-07-21 | Trusted CI | Open OnDemand Engagement Report | [Download](https://figshare.com/articles/presentation/TrustedCI_Open_Ondemand_2021_Audit/16918570) |
 | 2021-07-20 | PEARC'21 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/presentation/Open_OnDemand_PEARC_User_Group_BoF/15048225) |
 | 2021-07-19 | PEARC'21 | HPC Toolset Tutorial | [Download](https://figshare.com/articles/presentation/Open_OnDemand_PEARC_User_Group_BoF/15048225)  |
 | 2021-07-12 | Microsoft | Azure HPC OnDemand Platform: Cloud HPC made easy. | [Download](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338) |
@@ -189,6 +190,7 @@ The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webi
 | 2019-06-19 | ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand Pre-conference Paper | [Download](https://figshare.com/articles/Open_OnDemand_ISC19_Workshop_on_Interactive_High-Performance_Computing_Pre-conference_Paper/8300639) |
 | 2019-06-19 | ISC19 Workshop on Interactive High-Performance Computing | Open OnDemand Presentation | [Download](https://figshare.com/articles/Open_OnDemand_ISC19_Workshop_on_Interactive_High-Performance_Computing_Presentation/8300603) |
 | 2019-06-05 | NITRD Middleware And Grid Interagency Coordination (MAGIC) Meeting | Open OnDemand Overview | [Download](https://figshare.com/articles/Open_OnDemand_Project_Overview/8233421) |
+| 2018-12-31 | Trusted CI | Open OnDemand Report | [Download](https://figshare.com/articles/presentation/TrustedCI_Open_OnDemand_2018_Audit/16918564) |
 | 2018-09-26 | Gateways 2018 Presentation | Accessing Distributed Jupyter/Spark in OnDemand | [Download](https://figshare.com/articles/Accessing_Distributed_Jupyter_Spark_in_OnDemand/7137995) |
 | 2018-09-10 | Gateways 2018 Poster | Open OnDemand:  Access Clusters, Gateways and Interactive Apps | [Download](https://figshare.com/articles/Open_OnDemand_Access_Clusters_Gateways_and_Interactive_Apps/7069691) |
 | 2018-09-10 | Gateways 2018 Paper | Accessing Distributed Jupyter / Spark in OnDemand | [Download](https://figshare.com/articles/Accessing_Distributed_Jupyter_Spark_in_OnDemand/7069679) |
