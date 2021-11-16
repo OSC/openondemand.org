@@ -142,6 +142,7 @@ The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webi
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
 | 2021-11-17 | SC'21 | Open OnDemand User Group Meeting | [Download](https://figshare.com/articles/presentation/SC21_OOD_User_Group_BoF/17026634) |
+| 2021-11-16 | SC'21 | Utilizing Kubernetes and Open OnDemand to Support Virtual Classroom Labs | [Download](https://figshare.com/articles/presentation/SC21_Kubernetes_and_OpenOnDemand/17026916) |
 | 2021-11-16 | SC'21 | Simplifying Cloud Research Computing with CloudyCluster and Open OnDemand | [Download](https://sc21.supercomputing.org/presentation/?id=exforum111&sess=sess263) |
 | 2021-10-15 | Gateways'21 | Open OnDemand App Development and Integration Abstract | [Download](https://zenodo.org/record/5570225) |
 | 2021-10-07 | Google | Omnibond: Creating an HPC Environment in Google Cloud with CloudyCluster | [Download](https://www.cloudskillsboost.google/focuses/21221?parent=catalog) |
