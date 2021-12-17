@@ -117,6 +117,7 @@ The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webi
 
 | Date   | Publisher/Event    | Title                                                                              | Slides                                                                                  | Media                                                                                                                                                                      |
 | :----:   | :----:    | :-----:                                                                            | :------:                                                                                | :-----:                                                                                                                                                                    |
+| 2021-12-02 | December OOD Tips and Tricks Call | Containerizing Xvnc/noVNC/Xfce for easy HPC desktop access | [Download](https://drive.google.com/drive/folders/1w0gPfNzPWymSWHno1wfFBQQmiDxUVU2N) | [Video](https://drive.google.com/drive/folders/1w0gPfNzPWymSWHno1wfFBQQmiDxUVU2N)  |
 | 2021-11-04 | November OOD Tips and Tricks Call | Supporting classes with CAS-enabled OOD | [Download](https://docs.google.com/document/d/1KxdAtsl4LDKOfeoQ1FzfSfPWYqACBysTPLTVhClID1k/edit) | [Video](https://drive.google.com/file/d/1aP2fr9H50ekU5WpUM6HiE4-usT-0VVJn/view)  |
 | 2021-10-28 | MathWorks | MATLAB and NVIDIA GPUs with Open OnDemand | [Download](https://figshare.com/articles/presentation/MATLAB_and_NVIDIA_GPUs_with_Open_OnDemand/16896454) | [Video](https://osu.zoom.us/rec/play/GJdt1gm-KeK913ohjE1LYIexEZj168yU2AXvPZ3DcI0H8ACjdrEqFaWBKYOFzzGLXNxi_VvI06JDi2NI.DgXxYTX5kSGIkOme?continueMode=true&_x_zm_rtaid=jCOnKFQqTee159MLMu0pOw.1635965291368.38783bab649b6fd15c11a7b41d323fd8&_x_zm_rhtaid=595)  |
 | 2021-10-21 | Gateways21 | Open OnDemand App Development and Integration | [Download](https://figshare.com/articles/presentation/Open_OnDemand_App_Development_and_Integration/16849984) | [Video](https://www.youtube.com/watch?v=JEHeVw-XGww&list=PLTkmCX5R7siNrdUtgrn4ncEpmW9ZyJJff&index=5&ab_channel=ScienceGatewaysCommunityInstitute)  |
@@ -141,6 +142,7 @@ The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webi
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2021-12-15 | Virginia Tech | High-speed rendering capabilities enable creativity for visual design students | [Download](https://vtx.vt.edu/articles/2021/12/it-arc-sova-3D-rendering-program.html) |
 | 2021-11-17 | SC'21 | Open OnDemand User Group Meeting | [Download](https://figshare.com/articles/presentation/SC21_OOD_User_Group_BoF/17026634) |
 | 2021-11-16 | SC'21 | Utilizing Kubernetes and Open OnDemand to Support Virtual Classroom Labs | [Download](https://figshare.com/articles/presentation/SC21_Kubernetes_and_OpenOnDemand/17026916) |
 | 2021-11-16 | SC'21 | Simplifying Cloud Research Computing with CloudyCluster and Open OnDemand | [Download](https://sc21.supercomputing.org/presentation/?id=exforum111&sess=sess263) |
