@@ -11,12 +11,15 @@ layout: default
   <p>The Open OnDemand team encourages any HPC center supporting COVID-19 research that could benefit from extraordinary platform development and support to engage with us. For more information, please contact Alan Chalker, Ph.D., Open OnDemand co-PI, by email at alanc@osc.edu or by phone at: (614)247-8672.
 </p>
 </div>
---->
+
 
 <div class="alert alert-info">
   <strong>OSC has a job opening for a software developer on the Open OnDemand team!</strong> The posting is available at https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Web---Interface-App-Lead-Engineer_R17290
 </div>
-
+--->
+<div class="alert alert-info">
+Open OnDemand does not utilize Java and thus is not vulnerable to any log4j exploit. While we are not aware of any vulnerabilities in underlying system tools (e.g. SLURM, Imod) or applications commonly utilized with Open OnDemand (e.g. MATLAB, Paraview), we strongly recommend that all sites thoroughly evaluate any system tools and applications in use.
+</div>
 
 ## Overview
 
