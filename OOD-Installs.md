@@ -21,18 +21,24 @@ Here's direct links to the local webpages for institutions using Open OnDemand:
 | California Institute of Technology | [Website](https://www.hpc.caltech.edu/visualization-ood) |
 | Case Western Reserve University | [Website](https://sites.google.com/a/case.edu/hpcc/hpc-cluster/quick-start) |
 | University of Central Oklahoma | [Website](https://www.uco.edu/cms/research-centers/creic/buddy-supercomputer) |
+| Chalmers University of Technology | [Website](https://www.c3se.chalmers.se/documentation/alvis-ondemand/#alvis-ondemand) |
+| Columbia University | [Website](https://confluence.columbia.edu/confluence/display/rcs/Terremoto+-+Working+on+Terremoto) |
 | CSC - IT Center for Science | [Website](https://docs.csc.fi/computing/webinterface/) |
 | University of Florida | [Website](https://help.rc.ufl.edu/doc/Open_OnDemand) |
 | Florida State University | [Website](https://rcc.fsu.edu/docs/ood) |
 | George Mason University | [Website](http://wiki.orc.gmu.edu/mkdocs/open_ondemand_on_Hopper/) |
+| University of Georgia | [Website](https://wiki.gacrc.uga.edu/wiki/OnDemand) |
+| Georgia Tech | [Website](https://docs.pace.gatech.edu/phoenix_cluster/onDemand/) |
 | Harvard University | [Website](https://docs.rc.fas.harvard.edu/kb/virtual-desktop/) |
 | Idaho National Laboratory | [Website](https://mooseframework.inl.gov/ncrc/gen_ondemand.html) |
 | Illinois NCSA | [Website](https://wiki.ncsa.illinois.edu/display/ISL20/Getting+started+with+HAL+OnDemand) |
 | University of Illinois Chicago | [Website](https://acer.uic.edu/acer-ondemand/) |
 | Instituut Lorentz | [Website](https://helpdesk.strw.leidenuniv.nl/wiki/doku.php?id=institute_lorentz:xmaris) |
+| Iowa State University | [Website](https://researchit.las.iastate.edu/open-ondemand) |
 | University of Kentucky | [Website](https://docs.ccs.uky.edu/display/HPC/Open+OnDemand+%28OOD%29+Web+Portal+for+CCS) |
 | Lehigh University | [Website](https://confluence.cc.lehigh.edu/display/hpc/Portal#:~:text=Open%20OnDemand%20(OOD)%20is%20an,Easy%20file%20management) |
 | Louisiana State University | [Website](https://ondemand.mike.hpc.lsu.edu/) |
+| University of Malaya | [Website](https://confluence.dicc.um.edu.my/display/HPCDOCS/Open+OnDemand) |
 | University of Maryland | [Website](https://hpcc.umd.edu/hpcc/help/ood.html) |
 | University of Michigan | [Website](https://arc.umich.edu/open-ondemand/) |
 | Michigan State University | [Website](https://wiki.hpcc.msu.edu/display/ITH/Open+OnDemand) |
@@ -65,6 +71,8 @@ Here's direct links to the local webpages for institutions using Open OnDemand:
 | University of Vermont | [Website](https://www.uvm.edu/vacc/deepgreen-workshop-getting-started) |
 | University of Virginia | [Website](https://www.rc.virginia.edu/userinfo/rivanna/ood/overview/) |
 | Virginia Tech | [Website](https://arc.vt.edu/ondemand/#:~:text=Open%20OnDemand%20is%20a%20web,%2Dto%2Ddate%20web%20browser.) |
+| Wayne State University | [Website](https://tech.wayne.edu/kb/high-performance-computing/hpc-tutorials/500173) |
+| West Virginia University | [Website](https://wvuhpc.github.io/Interactive-Scientific-Computing/02-openondemand/index.html) |
 | Yale University | [Website](https://docs.ycrc.yale.edu/clusters-at-yale/access/ood/) |
 
 
