@@ -16,10 +16,11 @@ layout: default
 <div class="alert alert-info">
   <strong>OSC has a job opening for a software developer on the Open OnDemand team!</strong> The posting is available at https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Web---Interface-App-Lead-Engineer_R17290
 </div>
---->
+
 <div class="alert alert-info">
 Open OnDemand does not utilize Java and thus is not vulnerable to any log4j exploit. While we are not aware of any vulnerabilities in underlying system tools (e.g. SLURM, Imod) or applications commonly utilized with Open OnDemand (e.g. MATLAB, Paraview), we strongly recommend that all sites thoroughly evaluate any system tools and applications in use.
 </div>
+--->
 
 ## Overview
 
@@ -105,6 +106,8 @@ Currently, the primary source of funding for the development of Open OnDemand is
 * Software / hardware provider engagements (e.g. Intel case studies, NVIDIA GTC presentations)
 
 ## Project Cybersecurity
+Open OnDemand does not utilize Java and thus is not vulnerable to any log4j exploit. While we are not aware of any vulnerabilities in underlying system tools (e.g. SLURM, Imod) or applications commonly utilized with Open OnDemand (e.g. MATLAB, Paraview), we strongly recommend that all sites thoroughly evaluate any system tools and applications in use.
+
 [Trusted CI](https://trustedci.org/) , the NSF Cybersecurity Center of Excellence conducted an [in-depth vulnerability assessment of Open OnDemand](https://figshare.com/articles/presentation/TrustedCI_Open_OnDemand_2018_Audit/16918564), completing it in December 2018. This assessment included a careful review of the code, increasing our confidence in its security. The Ohio Supercomputer Center addressed the implementation issues (bugs) that were found during this review, producing a more robust revision of Open OnDemand.
 
 In January, 2021, The Open OnDemand team and Trusted CI began another engagement to to accomplish three distinct objectives:Integration of security automation into DevOps flows; Skills transfer for vulnerability assessment; Development of needed security policies, practices, and procedures.  Upon completion of this project, [Trusted CI issued a report](https://figshare.com/articles/presentation/TrustedCI_Open_Ondemand_2021_Audit/16918570) and the Open OnDemand team is now much better positioned with regards to security dev ops.
