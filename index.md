@@ -116,8 +116,10 @@ If you have security concerns or think you have found a vulnerability in Open On
 
 ## Where to Learn More!
 
-### Monthly Community Meetings
+### Monthly Community and Help Meetings
 The Open OnDemand community hosts a monthly "Open OnDemand Tips and Tricks" webinar on the first Thursday of the month at 10am PT/ 11am MT / 12pm CT / 1pm ET.  More details on specific agendas and the Zoom coordinates are available in [this Discourse thread](https://discourse.osc.edu/t/open-ondemand-tips-and-tricks-calls/1684)
+
+The Open OnDemand development team hosts a monthly "Open Office Hours" webinar on the 2nd Tuesday of every month at 11:15 AM - 12:45PM Eastern time zone. This time was selected to allow for our European colleagues to be able to connect in the late afternoon and our West Coast colleagues to connect in the morning (sorry Alaska and Hawaii;).  More details on specific agendas and the Zoom coordinates are available in [this Discourse thread](https://discourse.osc.edu/t/open-ondemand-monthly-open-office-hours/1728)
 
 ### Webinars / Videos
 
