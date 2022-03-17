@@ -87,7 +87,7 @@ There are three ways you can have a demo Open OnDemand instance running in minut
 ### Tell us what features you want to be added to OnDemand!
 
 * Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
-* Post a suggestion or review existing suggestions on our [Discourse instance](https://discourse.openondemand.org/c/open-ondemand) 
+* Post a suggestion or review existing suggestions on our [Discourse instance](https://discourse.openondemand.org/) 
 * Send an email to us on the [news list](https://lists.osu.edu/mailman/listinfo/ood-users)
 
 [See a list and comment on community requested features](
