@@ -154,6 +154,7 @@ The Open OnDemand development team hosts a monthly "Open Office Hours" webinar o
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2022-04-07 | minGateways'22 | Open OnDemand Open Forum | [Download](https://figshare.com/articles/presentation/Open_OnDemand_MiniGateways22_Presentation/19542796) |
 | 2022-02-28 | Opuntia | Open OnDemand | [Download](https://opuntia.utsa.edu/product_details/36/Open%20OnDemand) |
 | 2021-12-15 | Virginia Tech | High-speed rendering capabilities enable creativity for visual design students | [Download](https://vtx.vt.edu/articles/2021/12/it-arc-sova-3D-rendering-program.html) |
 | 2021-11-17 | SC'21 | Open OnDemand User Group Meeting | [Download](https://figshare.com/articles/presentation/SC21_OOD_User_Group_BoF/17026634) |
