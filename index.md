@@ -161,6 +161,7 @@ The Open OnDemand development team hosts a monthly "Open Office Hours" webinar o
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
 | 2022-05-06 | Omnibond | CloudyCluster HPC with Open OnDemand | [Download](https://aws.amazon.com/marketplace/pp/prodview-am3yf3mjcj2bs) |
+| 2022-04-25 | OSC | Ohio Supercomputer Center to collaborate on $10 million cyberinfrastructure initiative | [Download](https://www.osc.edu/press/ohio_supercomputer_center_to_collaborate_on_10_million_cyberinfrastructure_initiative) |
 | 2022-04-07 | miniGateways'22 | Open OnDemand Open Forum | [Download](https://figshare.com/articles/presentation/Open_OnDemand_MiniGateways22_Presentation/19542796) |
 | 2022-02-28 | Opuntia | Open OnDemand | [Download](https://opuntia.utsa.edu/product_details/36/Open%20OnDemand) |
 | 2021-12-15 | Virginia Tech | High-speed rendering capabilities enable creativity for visual design students | [Download](https://vtx.vt.edu/articles/2021/12/it-arc-sova-3D-rendering-program.html) |
