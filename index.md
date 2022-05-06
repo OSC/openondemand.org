@@ -72,10 +72,15 @@ We also have [testimonial comments](Testimonials.md) and [links to local OnDeman
 
 ## Run your own live demo
 
-There are three ways you can have a demo Open OnDemand instance running in minutes:
+There are multiple ways you can have a demo Open OnDemand instance running in minutes:
 1. Using [Docker](https://www.docker.com/).  Just follow the instructions in the [HPC Toolset Tutorial](https://github.com/ubccr/hpc-toolset-tutorial)
 2. Using [Vagrant](https://www.vagrantup.com/). Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
 3. Using the [Science Gateways](https://sciencegateways.org/) hosting service.  Instructions are listed in the [sgci-ood-image](https://github.com/OSC/sgci-ood-image/blob/master/how_to_setup_ood_on_sgci_with_the_image/index.md) README.
+4. Using one of the major commercial cloud vendors, each of which have preconfigured instances in their marketplaces:
+  a. [Amazon Web Services (AWS)](https://aws.amazon.com/marketplace/pp/prodview-am3yf3mjcj2bs)
+  b. [Microsoft Azure](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338)
+  c. [Google Cloud](https://cloud.google.com/blog/topics/hpc/introducing-hpc-vm-images)
+  
 
 ## Project and Feature Roadmap
 ### Upcoming Releases
@@ -125,6 +130,7 @@ The Open OnDemand development team hosts a monthly "Open Office Hours" webinar o
 
 | Date   | Publisher/Event    | Title                                                                              | Slides                                                                                  | Media                                                                                                                                                                      |
 | :----:   | :----:    | :-----:                                                                            | :------:                                                                                | :-----:                                                                                                                                                                    |
+| 2022-05-05 | May OOD Tips and Tricks Call | Resource limits for OOD jobs and their implementation | [Download](https://drive.google.com/drive/folders/1tN5uEUCMCrikj8gXqmphkvWLhMxXL82e) | [Video](https://drive.google.com/drive/folders/1tN5uEUCMCrikj8gXqmphkvWLhMxXL82e)  |
 | 2022-03-03 | March OOD Tips and Tricks Call | Set up and support of RStudio Server in OOD | [Download](https://docs.google.com/document/d/188xqEXiQXumxzSs9kHiPFcD_sd7C6Y7uqICX-wANhh8/edit) | [Video](https://drive.google.com/file/d/1s5W6FGp7DI5BNivhrmSNc_QLWTfhsGcV/view?usp=sharing)  |
 | 2022-02-23 | Nirmata Webinar | How Open OnDemand uses Kyverno to deliver self-service Kubernetes for HPC | N/A | [Video](https://nirmata.zoom.us/webinar/register/WN_uq9ZTI-YSMG2z84ob6v6mA?timezone_id=America%2FNew_York)  |
 | 2022-02-03 | February OOD Tips and Tricks Call | Best practices in integrating user supplied Python and Jupyter in Open OnDemand | [Download](https://docs.google.com/document/d/1bRyIgbYJKrBYsyOcYGMfh2RYwjbJJh2DU1009kZKfDI/edit) | [Video](https://drive.google.com/file/d/1muGach06tVIaqAP3IVwptyjk_7UaArLY/view?usp=sharing)  |
@@ -154,7 +160,8 @@ The Open OnDemand development team hosts a monthly "Open Office Hours" webinar o
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
-| 2022-04-07 | minGateways'22 | Open OnDemand Open Forum | [Download](https://figshare.com/articles/presentation/Open_OnDemand_MiniGateways22_Presentation/19542796) |
+| 2022-05-06 | Omnibond | CloudyCluster HPC with Open OnDemand | [Download](https://aws.amazon.com/marketplace/pp/prodview-am3yf3mjcj2bs) |
+| 2022-04-07 | miniGateways'22 | Open OnDemand Open Forum | [Download](https://figshare.com/articles/presentation/Open_OnDemand_MiniGateways22_Presentation/19542796) |
 | 2022-02-28 | Opuntia | Open OnDemand | [Download](https://opuntia.utsa.edu/product_details/36/Open%20OnDemand) |
 | 2021-12-15 | Virginia Tech | High-speed rendering capabilities enable creativity for visual design students | [Download](https://vtx.vt.edu/articles/2021/12/it-arc-sova-3D-rendering-program.html) |
 | 2021-11-17 | SC'21 | Open OnDemand User Group Meeting | [Download](https://figshare.com/articles/presentation/SC21_OOD_User_Group_BoF/17026634) |
