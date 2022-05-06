@@ -77,9 +77,9 @@ There are multiple ways you can have a demo Open OnDemand instance running in mi
 2. Using [Vagrant](https://www.vagrantup.com/). Just follow the steps listed in the [ood-images-full](https://github.com/OSC/ood-images-full) README.
 3. Using the [Science Gateways](https://sciencegateways.org/) hosting service.  Instructions are listed in the [sgci-ood-image](https://github.com/OSC/sgci-ood-image/blob/master/how_to_setup_ood_on_sgci_with_the_image/index.md) README.
 4. Using one of the major commercial cloud vendors, each of which have preconfigured instances in their marketplaces:
-  a. [Amazon Web Services (AWS)](https://aws.amazon.com/marketplace/pp/prodview-am3yf3mjcj2bs)
-  b. [Microsoft Azure](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338)
-  c. [Google Cloud](https://cloud.google.com/blog/topics/hpc/introducing-hpc-vm-images)
+  * [Amazon Web Services (AWS)](https://aws.amazon.com/marketplace/pp/prodview-am3yf3mjcj2bs)
+  * [Microsoft Azure](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338)
+  * [Google Cloud](https://cloud.google.com/blog/topics/hpc/introducing-hpc-vm-images)
   
 
 ## Project and Feature Roadmap
