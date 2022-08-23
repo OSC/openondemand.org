@@ -93,7 +93,7 @@ There are multiple ways you can have a demo Open OnDemand instance running in mi
 
 * Add new feature requests or bug reports on the [project issues page](https://github.com/OSC/Open-OnDemand/issues) (requires free GitHub account)
 * Post a suggestion or review existing suggestions on our [Discourse instance](https://discourse.openondemand.org/) 
-* Send an email to us on the [news list](https://lists.osu.edu/mailman/listinfo/ood-users)
+* Send an email to us at info@openondemand.org
 
 [See a list and comment on community requested features](
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aosc+label%3A%22community+request%22
@@ -117,7 +117,7 @@ Open OnDemand does not utilize Java and thus is not vulnerable to any log4j expl
 
 In January, 2021, The Open OnDemand team and Trusted CI began another engagement to to accomplish three distinct objectives:Integration of security automation into DevOps flows; Skills transfer for vulnerability assessment; Development of needed security policies, practices, and procedures.  Upon completion of this project, [Trusted CI issued a report](https://figshare.com/articles/presentation/TrustedCI_Open_Ondemand_2021_Audit/16918570) and the Open OnDemand team is now much better positioned with regards to security dev ops.
 
-If you have security concerns or think you have found a vulnerability in Open OnDemand that you want to responsibly disclose, please contact us directly via email on the news list linked above or utilizing the ["Report a Potential Security Incident"](https://www.osc.edu/contact/security) form on the OSC website. 
+If you have security concerns or think you have found a vulnerability in Open OnDemand that you want to responsibly disclose, please contact us directly via email at security@openondemand.org or utilizing the ["Report a Potential Security Incident"](https://www.osc.edu/contact/security) form on the OSC website. 
 
 ## Where to Learn More!
 
