@@ -163,6 +163,7 @@ The Open OnDemand development team hosts a monthly "Open Office Hours" webinar o
 
 | Date | Publisher/Event | Title | Content Access |
 | :----: | :----: | :----: | :----: |
+| 2022-09-22 | RIKEN | Introducing the HPC web portal Open OnDemand in the Fugaku supercomputer | [Download](https://mnakao.net/data/2022/HPC186.pdf) |
 | 2022-07-12 | PEARC'22 | Open OnDemand User Group BoF | [Download](https://figshare.com/articles/presentation/PEARC22_Open_OnDemand_User_Group_BoF/20339070) |
 | 2022-07-11 | PEARC'22 | Open OnDemand, Open XDMoD, and ColdFront: An HPCcenter management toolset | [Download](https://figshare.com/articles/presentation/PEARC22_HPC_Center_Toolset_Tutorial/20338959) |
 | 2022-05-06 | Omnibond | CloudyCluster HPC with Open OnDemand | [Download](https://aws.amazon.com/marketplace/pp/prodview-am3yf3mjcj2bs) |
